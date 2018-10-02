@@ -190,7 +190,7 @@ def draw_2d_network(networkx_object, file_name, mode):
     if mode=="online":
         return py.iplot(fig, filename=file_name)
     if mode=="eps":
-        return pio.write_image(fig, "/images/" + file_name + ".eps" , scale=1)
+        return pio.write_image(fig, "images/" + file_name + ".eps" , scale=1)
     
 def draw_3d_network(networkx_object, file_name, mode):
     '''take networkX object and draw it in 3D'''
@@ -320,4 +320,4 @@ def draw_3d_network(networkx_object, file_name, mode):
     if mode=="online":
         return py.iplot(fig, filename=file_name)
     if mode=="eps":
-        return pio.write_image(fig, "/images/" + file_name + "_3D.eps" , scale=1)
+        return pio.write_image(fig, "images/" + file_name + "_3D.eps" , scale=1)
