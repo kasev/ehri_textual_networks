@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EHRI-ET-JMP018_DE">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Berner, Isaak: Zeugnis über die Liquidierung des Ghettos Riga (Protokoll)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>EHRI Edition of Early Holocaust Testimony</edition>
+        <author>
+          <persName>Michal Frankl</persName>
+        </author>
+        <author>
+          <persName>Magdalena Sedlická</persName>
+        </author>
+        <author>
+          <persName>Wolfgang Schellenbacher</persName>
+        </author>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.ehri-project.eu/">European Holocaust Research
+            Infrastructure</ref>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike
+            4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country ref="https://portal.ehri-project.eu/countries/cz">Czech Republic</country>
+            <repository ref="https://portal.ehri-project.eu/institutions/cz-002279">Jewish Museum in
+              Prague</repository>
+            <collection ref="https://portal.ehri-project.eu/units/cz-002279-collection_jmp_shoah_dp"
+              >Documents of Persecution</collection>
+            <idno>inventory number 80 (Memoirs, and literary and expert accounts of the persecution
+              period, written after the war)</idno>
+
+          </msIdentifier>
+          <physDesc/>
+        </msDesc>
+        <bibl>JMP, DP, inv. no 80 <textLang mainLang="de">Original in German.</textLang></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/terezin-terms-keyword-jmp-657">Dokumentační
+          akce</term>, <persName ref="#ehri_et_berner_isaak">Isaak Berner</persName>,
+          <idno>EHRI-ET-JMP018</idno></creation>
+
+      <textClass>
+        <keywords>
+          <term>testimony</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="de">German</language>
+      </langUsage>
+
+      <abstract>
+        <p>Testimony of Isaak Berner, which became a part of the Documentation campaign, Prague.
+          Berner describes the beginning of the Nazi occupation regime in Riga and the persecution
+          of Jews, which has followed. In October 1941 Jews from Riga were forced to moved out to
+          the newly establish ghetto in the suburbs. Most of the ghetto inmates were murdered during
+          a massacre in the winter of 1941. Berner is describing the living condition in the
+          ghetto.</p>
+      </abstract>
+
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1" facs="EHRI-ET-JMP018_01.jpg"/>
+      <p>Protokoll</p>
+      <p>Aufgenommen mit: <persName ref="#ehri_et_berner_isaak">Berner Isaak</persName>, geb.: <date
+          when="1909-06-18">18.6.1909</date> in <placeName
+          ref="http://www.geonames.org/456172/riga.html">Riga</placeName></p>
+
+      <p>Am <date when="1941-07-01">1.VII.1941</date> kamen die <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159">Deutschen</term> nach
+          <placeName ref="http://www.geonames.org/456172/riga.html">Riga</placeName>. Am <date
+          when="1941-07-02">2. VII.</date> wurde eine <placeName
+          ref="http://www.geonames.org/458258/republic-of-latvia.html">lettische</placeName>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS</term>
+        Hilfstruppe gebildet. Auf den Aermeln trugen sie grüne Binden mit dem Totenkopf. Die erste
+        Leistung dieser Hilfstruppe bestand darin, Juden auf der Strasse abzufangen, zu peinigen,
+        jüdische <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-825"
+          >Frauen</term> und <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-824">Kinder</term> aus den <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-837"
+          >Wohnungen</term> zu treiben, und zur <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">Arbeit</term>
+        zu zwingen. Es wurden <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556">Aufräumungsarbeiten</term>
+        durchgeführt, wobei es nicht so sehr darauf ankam, dass eine <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">Arbeit</term>
+        geleistet wird, als vielmehr darauf, die Juden zu tyrannisieren. <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-599">Bärte wurden ihnen
+          ausgerissen</term>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">den Frauen</term> die
+        Kopfhaare abgeschnitten, unter <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-642">Schlägen</term> und
+        Fusstritten blieben die Menschen am Boden liegen. Am <date when="1941-07-03">3. Juli</date>
+        wurde damit begonnen, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-345"><term type="subject"
+            ref="https://portal.ehri-project.eu/keywords/ehri_terms-837">die Wohnungen</term> der
+          Juden zu plündern</term>. Am <date when="1941-07-06">6. Juli</date> wurden alle <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-758"
+          >Synagogen</term> in <placeName ref="http://www.geonames.org/456172/riga.html"
+          >Riga</placeName>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-646">in Brandt
+          gesetzt</term>. Ich kann unter Eid aussagen, dass viele <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-735">Rabbiner</term>, Kantore,
+        Tempeldiener und in der Nachbarschaft <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-758">der Synagogen</term> lebende
+        jüdische Familien in die <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-646">brennenden Synagogen</term>
+        getrieben wurden, dort erstickten und bei lebendigem Leibe <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532">verbrannten</term>. Kurz
+        darnach begannen Massenverhaftungen unter jüdischer Bevölkerung. 3000-4000 Juden sind
+        innerhalb kurzer Zeit verschwunden, es ist mir nicht bekannt was mit diesen Menschen
+        geschah. Alle in Freiheit gebliebenen Juden mussten sich täglich auf der Praefektur melden
+        und wurden zur <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          type="subject">Arbeit</term> geschickt, bei der sie natürlich aufs ärgste gepeinigt
+        wurden. Anfang <date when="1941-09">September</date> liess der Praefekt <persName
+          ref="#ehri_et_stieglitz_robert">Stieglitz</persName> ein repatriierter <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159"
+          >Deutscher</term> der nach <placeName
+          ref="http://www.geonames.org/458258/republic-of-latvia.html">Lettland</placeName>
+        zurückkahm alle jüdischen führenden <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-826" type="subject">Männer</term>
+        zu sich zu holen und forderte sie auf ein jüdisches Komitee zu bilden. Mitglieder wurden
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-899"
+          >Rechtsanwalt</term> Dr. <persName ref="#ehri_et_eljaschow_michael">Eljachow</persName>,
+        Dr. <persName ref="#ehri_et_mincs_vladimir">Minz</persName>
+        <note type="gloss">Uncertain, whether he means Vladimir Mincs.</note>, <persName
+          ref="#ehri_et_kaugert">Kaugert</persName>, <persName ref="#ehri_et_minsker"
+          >Winzker</persName>, Dr. <persName ref="#ehri_et_blumenthal">Blumfeld</persName>. Deren
+        Aufgabe war: für <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1173">die Umsiedlung</term> der
+        Juden <placeName ref="http://www.geonames.org/456172/riga.html">Rigas</placeName> in das
+        Arbeiterviertel Letgaler Vorstadt zu sorgen, einem Viertel in dem ursprünglich 3000-4000
+        Arbeiter gesiedelt hatten. Auf dieser engen Fläche, in den kleinen niedrigen <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-837">Räumen</term>
+        mussten 30.000-40.000 Menschen <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837">Unterkunft</term> finden.
+        Unsere <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-837"
+          >Wohnungen</term> mussten wird den Arbeitervierteln ausgesiedelten unentgeltlich
+        übergeben, durften nur das notdürftigste an Handgepäck mitnehmen; eine besondere Bewilligung
+        war schon notwendig, wenn man z.B. einen Schrank mitnehmen wollte. War es ein besseres
+        Möbelstück, wo wurde die Erlaubnis nicht erteilt. <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1173">Die Umsiedlung</term> musste
+        bis zum <date when="1941-10-15">15.X.</date> durchgeführt werden, das <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject">Ghetto</term>
+        wurde umzaunt, von <term type="place"
+          ref="http://www.geonames.org/458258/republic-of-latvia.html">lettischer</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS</term>
+        umstellt, die Juden waren abgesondert und es beginnt die Tragödie des <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject"
+        >Ghettos</term>.</p>
+      <p>Schon in den ersten Tagen wurden viele Juden, die sich dem Zaune nur näherten <q>auf der
+            <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-204"
+            >Flucht</term>
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-541"
+            >erschossen</term></q> In angeblich schlecht verdunkelte Fenster wurde gefeuert, viele
+        Menschen sind so <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745">ums Leben gebracht
+          worden</term>. <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-489">Arbeitskommandos</term>
+        gingen täglich hinaus. Wer es nur halbwegs konnte, der versuchte sich zu drücken, weil die
+        Heimkehr ins <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-545"
+          type="subject">Ghetto</term> lebensgefährlich war. Am Tore wurde man kontrolliert,
+        Durchsuchungen wurden vorgenommen, und meistfurchtbar verprügelt, wobei <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-824">Kinder</term> und <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">Frauen</term>
+        nicht geschont wurden. Die Versorgung von <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832">Lebensmitteln</term> und
+        Gebrauchsgegenständen wurde durch 14 Geschäfte vorgenommen, wobei aber die Zuteilung von
+        Woche zu Woche knapper wurde. Den Sicherheitsdienst besorgte <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-480">jüdische Polizei</term>. Am
+          <date when="1941-11-18">18. November</date> wurde verlautbart, dass am <date
+          when="1941-11-20">20. November</date> das <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject">Ghetto</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-623"
+          >evakuiert</term> werde, alle würden in <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508">Arbeitslager</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-521"
+          >überführt</term>. Auf die Frage Dr. <persName ref="#ehri_et_eljaschow_michael"
+          >Eljachows</persName>, was mit Alten und <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-292">Kranken</term> geschehen
+        werde, antwortete der S.A. Mann <persName ref="#ehri_et_schulze">Schulze</persName>
+        aufrichtig, wer nicht marschieren könne, der werde <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532">erschossen</term>. Es war
+        erlaubt bis zu 20 kg Gepäck mitzunehmen. Wir glaubten daran, dass wir tatsächlich in <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-508"
+          >Arbeitslager</term> gebracht werden. Am <date when="1941-11-20">20. November</date> kamen
+          <placeName ref="http://www.geonames.org/458258/republic-of-latvia.html"
+          >lettische</placeName> Arbeiter und sonderten innerhalb des <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject">Ghettos</term>
+        ein kleines Viertel ab. Zunächst <pb n="2" facs="EHRI-ET-JMP018_02.jpg"/> war uns nicht
+        klar, warum das geschieht, sodann wurden aber am <date when="1941-11-23">23. November</date>
+        alle kräftigen <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-826"
+          type="subject">Männer</term> in das abgesonderte Viertel hineingetrieben. Am <date
+          when="1941-11-30">30. November</date> begann <q>die grosse Aktion</q>. Um 6 h Abend wurden
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-824"
+          >Kinder</term>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">Frauen</term>, Greise mit
+        oder ohne Gepäck aus den <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837">Wohnungen</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-642"
+          >hinausgejagt</term>. <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-345">Schläge</term>, <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-345">Tritte</term>,
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-541"
+          >Erschiessungen</term>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532">Morde</term> waren die
+        Mittel, mit denen die verängstigten Menschen angetrieben wurden. Die ganze Nacht hindurch,
+        bis 6 h früh blieben die Leute auf der Strasse, bei Frost, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-569">hungrig</term> und vielfach
+        schlecht und nur notdürftig bekleidet. Zu Fuss, unter strengster Bewachung der <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS</term> in
+        Gruppen von je 1000 Menschen wurden die auf die <placeName
+          ref="http://www.geonames.org/456172/riga.html">Moskauer Strasse</placeName> getrieben.
+        Niemand durfte zusehen, selbst <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-373">Arier</term> durften nicht
+        ans Fenster, es wurde sogleich geschossen. Diese <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-623">Aussiedlung</term> dauerte
+        bis zum <date when="1941-12-09">9. Dezember 1941</date>. Während dieser Zeit hörten wir im
+        abgesonderten <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-545"
+          type="subject">Ghetto</term>, dass russische <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-511">Kriegsgefangene</term>
+        ausserhalb der Stadt, bei Quadrat in <placeName
+          ref="http://www.geonames.org/7628323/salaspils-novads.html">Salaspils</placeName> und im
+        Bickernjakenwald grosse <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1321">Gruben</term> graben, wofür,
+        konnten wir zunächst nicht erfahren. Von Bauern, die in der Nähe lebten und aus Aussagen
+        einiger, denen es gelungen war zu <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-204">fliehen</term>, erfuhren wir:
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-521">Die
+          Transporte</term> der <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">Frauen</term> und <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-824">Kinder</term>
+        (auch einige <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-826"
+          type="subject">Männer</term> waren unter ihnen) wurden an die <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1321">Grube</term> herangejagt und
+        mit Maschinengewehren <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532">niedergemäht</term>. Das
+        Schreien und Wehklagen der armen Ofer war so erschütternd, dass viele Bauern der nahen
+        Umgebung Nächte hindurch nicht Schlaf finden konnten. In dieser Aktion wurden annährend
+        27.000 <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-825"
+          >Frauen</term>, etwa 3000 <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-824">Kinder</term> im Alter von 1
+        bis 13 Jahren und beiläufig 4000 bis 5000 meist minder arbeitsfähige <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-826" type="subject">Männer</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-532"
+          >ermordet</term>. Geleitet wurde die ganze Aktion durch General <persName
+          ref="https://portal.ehri-project.eu/authorities/ehri_pers-000196">Jeckeln</persName>, mit
+        Sitz in <placeName ref="http://www.geonames.org/456172/riga.html">Riga</placeName> im
+        Ritterhaus, sein Gehilfe war Dr. <persName
+          ref="https://portal.ehri-project.eu/authorities/ehri_pers-000244">Lange</persName>, als
+        dritter der S.A. Mann <persName ref="#ehri_et_schulze">Schulze</persName>. Zur
+        Charakteristik des General <persName
+          ref="https://portal.ehri-project.eu/authorities/ehri_pers-000196">Jeckeln</persName> führe
+        ich an: Als einige Juden zu ihm ins Haus geschickt wurden, um bei ihm zu <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject"
+          >arbeiten</term>, gefielen ihm zwei nicht. Kurzer Hand <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532">schoss</term> er sie nieder.
+        Nach Beendigung der Aktion blieben im kleinen abgesonderten <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject">Ghetto</term>
+        annähernd 5000 <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-826">Mann</term> und etwa 270
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-825"
+          >Frauen</term> und <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-824">Kinder</term> zurück, denen
+        es gelungen war, sich bei der <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-623">Aussiedlung</term> zu <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-262"
+          >verbergen</term>. Ich war damals <distinct type="camp_language">Lagerältester</distinct>
+        und erhielt vom neuen <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477">Kommandanten</term> die
+        Erlaubnis, die <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">Frauen</term> und <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-824">Kinder</term>
+        in einem gesonderten Block unterzubringen, es kamen noch später <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">Frauen</term> aus <placeName
+          ref="http://www.geonames.org/597427/republic-of-lithuania.html">Litauen</placeName> hinzu.
+        Insgesamt waren später 500-600 <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">Frauen</term> im <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-825"
+          >Frauenblock</term>. Der neue <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477" type="subject"
+          >Kommandant</term> hiess <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">Obersturmführer</term>
+        <persName ref="#ehri_et_krause_kurt">Krauss</persName>, sein Gehilfe was der <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          >Scharführer</term>
+        <persName ref="#ehri_et_roschmann_eduard">Roschmann</persName>. Das <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject">Lager</term>
+        wurde ans Kasernierungs- resp. <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508">Arbeitslager</term>
+        bezeichnet, alle <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-483"
+          type="subject">Insassen</term> mussten restlos <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject"
+          >arbeiten</term>. Es wurden drei Geschäfte errichtet, wir erhielten <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832">Lebensmittelkarten</term>, an
+        Waren war zunächst das, was in den Geschäften des grossen <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject">Ghetto</term>
+        zurückgeblieben war. Fast alle gingen täglich auf <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">Arbeit</term>.
+        Das grosse <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="type"
+          >Ghetto</term> wurde von einer Treuhandgesellschaft übernommen, die dort gefundenen
+        Gegenstände in Paketen zu 15 Mk an die Bevölkerung abgegeben, ganze Waggonladungen von
+        Kleidern wurde als Winterhilfe der <placeName
+          ref="http://www.geonames.org/458258/republic-of-latvia.html">lettischen</placeName>
+        Bevölkerung nach <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159">Deutschland</term>
+        transportiert. Die besten Sachen haben die <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">Herren der SS</term> für
+        sich behalten. Drei Tage nach der Vernichtungsaktion wurden in das leer stehende von uns
+        geräumte grosse <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-545"
+          type="subject">Ghetto</term> 13-14 Tausend Juden aus <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159">Deutschland</term> (<term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">Frauen</term>,
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-826" type="subject"
+          >Männer</term>,<term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-824">Kinder</term> gebracht. In
+        Waggons I und II Klasse wurden sie aus <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159">Deutschland</term> bis
+          Szirotowa gebracht, dort noch durch <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-286">Schwestern</term>
+        <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-419">des Roten
+          Kreuzes</orgName> mit Kaffee bewirtet. Sie hatten die Bewilligung erhalten, aus <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159"
+          >Deutschland</term> Gepäck mitzunehmen, kamen somit sehr gut ausgestattet an. In
+          Szirotowa wurden sie schon mit Hieben und Schlägen sortiert. Die
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-826" type="subject"
+          >Männer</term> kamen zum grossen Teil nach <placeName
+          ref="http://www.geonames.org/455898/salaspils.html">Salaspils</placeName> ins <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-508"
+          >Arbeits</term>/<term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-498">Vernichtungs/lager</term>,
+        alte Leute wurden zum Teil in Szirotowa
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-532"
+          >erschossen</term>, der Rest kam wie eben angeführt ins <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject">Ghetto</term>.
+        Ihres Gepäckes wurden sie zur Gänze beraubt und lebnächst [sic!] davon, was sie von uns
+        bekamen. Es war strengstens verboten, dass wir aus <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508">dem Arbeitslager</term> ins
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject"
+          >Ghetto</term> kamen, und die <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483" type="subject"
+          >Bewohner</term> des <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-545"
+          type="subject">Ghettos</term> durften gleichfalls mit uns nicht in Berührung kommen. Wir
+        gingen täglich zur <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556">Arbeit</term>. Sämtliche
+        Juden des <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject"
+          >Kasernierungslager</term> mussten Geld, Wertsachen, Wertpapiere, Gold abliefern. Wir
+        haben 115.000 Mk und ein Riesenvermögen an Gold, Schmuck und Brillianten abgegeben. Der <pb
+          n="3" facs="EHRI-ET-JMP018_03.jpg"/> Wert lässt sich schwer abschätzen, es waren ganz
+        enorme Werte. Acht Tage später wurden die ersten zwei Juden des <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject"
+          >Kasernierungslagers</term> öffentlich im <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject">Lager</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-541" type="subject"
+          >erhängt</term>. Beschuldigt wurden sie dessen, dass bei einem von ihnen 60 Pfennig, bei
+        einem anderen 1 Mark vorgefunden wurde. Nach Vollzug <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-541">der Exekution</term> wurde
+        den Juden angeordnet, eine neue Sammlung des Geldes, Goldes und Wertsachen durchzuführen,
+        weil wie es hiess nicht alles abgeliefert worden war. Wir haben sofort nochmals gesammelt
+        und haben 80.000 Mk aufgebracht. Als persönliches Geschenk für den <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477" type="subject">Kmdt</term>.
+          <persName ref="#ehri_et_krause_kurt">Krause</persName> haben wir einige Brillanten, eine
+        goldene Uhr und Zigarettenetui abgeführt. Es hiess, dass er das Geschenk zurückwies und
+        alles zu den übrigen Sachen in den Korb werfen liess. Ein Schutzmann äusserte sich später,
+          <persName ref="#ehri_et_krause_kurt">Krause</persName> hätte für sich so viel mitgenommen,
+        dass er 100 Jahre davon leben könne. Das <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-541" type="subject">Hängen</term>
+        und <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-541"
+          >Erschiessen</term> im <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567"
+          type="subject">Lager</term> hat nicht aufgehört, für jede Kleinigkeit musste man mit dem
+        Verlust des <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          type="subject">Lebens</term> büssen. <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-541">Die Exekutionen</term> des
+        Hängens musste die <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-480"
+          type="subject">jüdische Polizei</term> durchführen, die im <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject"
+          >Kasernierungslager</term> geblieben war. Die <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-350">Gestapo</orgName> in
+          <placeName ref="http://www.geonames.org/456172/riga.html">Riga</placeName> führte in
+        unseren Reigen vielfach Verhaftungen durch, besonders von Industriellen, grösseren
+        Kaufleuten. Diese Leute verschwanden und kamen nie mehr wieder. Innerhalb eines Jahres waren
+        etwa 1000 Juden <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-532"
+          type="subject">ums Leben gebracht worden</term>. Das <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject">Lager</term>
+        bestand bis <date when="1943-06">Juni 1943</date>. Sodann wurde es aufgelöst und wir wurden
+        in Gruppen bei den Firmen, in deren Firmen wir <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556">arbeiteten</term>,
+        untergebracht, in <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-837"
+          type="subject">Baracken</term> unter strenger Bewachung. Ein Teil der <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483">Leute</term> kam in das neu
+        gegründete <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-496"
+          >K.L.</term> bei <placeName ref="http://www.geonames.org/456172/riga.html"
+          >Riga</placeName>
+        <q><placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-788" type="camp"
+            >Kaiserwalde</placeName></q>. Die <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832">Verpflegung</term> in den
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-567"
+          >Fabrikslagern</term> war zwar knapp, aber man konnte sich dabei am Leben erhalten und
+        musste nicht <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-569">verhungern</term>. Beim
+        Heranrücken <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-004583">der
+          Russen</orgName> wurden wir nach <placeName
+          ref="http://www.geonames.org/2921044/federal-republic-of-germany.html"
+          >Deutschland</placeName> verschleppt und in <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-496">K.L.</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-837"
+          >untergebracht</term>.</p>
+
+      <p>Protokoll lau Original abgeschrieben.</p>
+
+      <p>Protokol opsala: <persName ref="#ehri_et_fischerova_marta">Marta Fischerová</persName></p>
+
+      <p>Podpis</p>
+
+      <p>Podpis svědků:</p>
+
+      <p>Za <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/terezin-terms-keyword-jmp-657">dokumentační
+          akci</term> přijal: <persName ref="#ehri_et_weinberger_robert">Weinberger</persName></p>
+
+      <p>Za archiv přijal: <persName ref="#ehri_et_tressler_harald">Tressler</persName></p>
+      <p><term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/terezin-terms-keyword-jmp-657">Dokumentační
+          akci</term> dáno k dispozici panem <persName ref="#ehri_et_munk_max">Maxem
+          Munkem</persName>, <placeName ref="http://www.geonames.org/3063739/uherske-hradiste.html"
+          >Uherské Hradiště</placeName></p>
+    </body>
+  </text>
+</TEI>

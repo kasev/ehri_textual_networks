@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EHRI-ET-DEGOB1640_EN">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Protocol no. 1640.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>EHRI Edition of Early Holocaust Testimony</edition>
+        <author>
+          <persName>Zoltán Vági</persName>
+        </author>
+        <author>
+          <persName>Gábor Kádár</persName>
+        </author>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.ehri-project.eu/">European Holocaust Research
+            Infrastructure</ref>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike
+            4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country ref="https://portal.ehri-project.eu/countries/hu">Hungary</country>
+            <repository ref="https://portal.ehri-project.eu/institutions/hu-002737">Hungarian Jewish
+              Archives</repository>
+            <collection ref="https://portal.ehri-project.eu/units/hu-002737-hu_hja_pih_i_m#desc-eng"
+              >National Relief Committee for Deportees (interview project, DEGOB)</collection>
+
+          </msIdentifier>
+          <physDesc/>
+        </msDesc>
+        <bibl>HJA, DEGOB, Protocol no. 1640<textLang mainLang="hu">Original in
+          Hungarian.</textLang></bibl>
+
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date when="1945-07-20">20. 7. 1945</date>, <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-004602">National Committee for
+          Attending Deportees (DEGOB)</orgName>, <placeName
+          ref="http://www.geonames.org/2766162/schandorf.html">Schandorf</placeName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-570" type="camp"
+          >Mauthausen</placeName>, <placeName type="camp"
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-583">Günskirchen</placeName>
+        <idno>EHRI-ET-DEGOB1640</idno></creation>
+      <textClass>
+        <keywords>
+          <term>testimony</term>
+        </keywords>
+      </textClass>
+
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <abstract>
+        <p>Testimony of the 30-year old dr. H.L.M. on antisemitism and discrimination in pre-war
+          Hungary, hardships during his labour service, the deportation of his unit to the
+          German-Hungarian border in December 1944, forced labour under German command, and a death
+          march in the spring of 1945 from Schandorf through the Alps to the Mauthausen and
+          Günskirchen camps.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>DEGOB Protocol 1640</p>
+      <p>Keywords: <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-518" type="subject"
+          >deportation</term>, <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-655"
+          type="subject">plunder</term>, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-560" type="subject">labour
+          service</term>, <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          type="subject">forced labour</term>, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-573" type="subject"
+          >liberation</term>, <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-517"
+          type="subject">death march</term></p>
+      <p>The person in question has given us the following information: <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-339" type="subject">Jewish
+          laws</term> concerned me only in as much as my application was accepted only by the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1132" type="subject"
+          >University</term> of <placeName ref="http://www.geonames.org/3046526/pecs.html"
+          >Pécs</placeName>, and even there I needed the support of someone to get in. At the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1132" type="subject"
+          >university</term>, I witnessed some harassment, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-345" type="subject"
+          >beatings</term> and things like that. <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-329" type="subject"
+          >Antisemitism</term> was intense at that time and in some cases I also received some
+        beatings. Having done some <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-899" type="subject">lawyer’s
+          practice</term> in <placeName ref="http://www.geonames.org/3047967/mohacs.html"
+          >Mohács</placeName> and <placeName ref="http://www.geonames.org/3046526/pecs.html"
+          >Pécs</placeName> I came to <placeName ref="http://www.geonames.org/3054643/budapest.html"
+          >Pest</placeName> and found a job. Later, however, I obtained new training and worked for
+        the weaving <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-560">factory</term> Star. I had no
+        problems here since I worked as a physical labourer. The <date when="1943-03-15">15th of
+          March, 1943</date>, I left the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-560">factory</term> and was
+        drafted for <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-560"
+          type="subject">labour service</term> in <placeName
+          ref="http://www.geonames.org/3047967/mohacs.html">Mohács</placeName>. Later, I was resent
+        to <placeName ref="http://www.geonames.org/3054643/budapest.html">Pest</placeName> to work
+        in the package selection department of the post office No. 70., and later I worked as a
+        draftsman for the boss. Here I had a good life till I was sent into <placeName
+          ref="#ehri_et_transylvania">Transylvania</placeName>. In <placeName
+          ref="http://www.geonames.org/679550/dej.html">Dés</placeName>, in <placeName
+          ref="http://www.geonames.org/672026/ocna-dejului.html">Désakna</placeName> we had a
+        malevolent <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-886" type="subject"
+          >commander</term>, a criminal, 2nd Lieutenant <persName ref="#ehri_et_feher_ferenc">Ferenc
+          Fehér</persName>, who came from <placeName
+          ref="http://www.geonames.org/3042771/vizvar.html">Vízvár</placeName> in Somogy. There was
+        also <persName ref="#ehri_et_kökönyei_ferenc">Ferenc Kökönyei</persName> who <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-655" type="subject">stole</term>
+        my watch and wore it. The <date when="1944-02-19">19th of February, 1944</date>, at 10 pm
+          <persName ref="#ehri_et_steckel_bela">Béla Steckel</persName>, who was on night patrol,
+        took me and 11 of my companions to the headquarters from the Jewish Casino although I had a
+        regular permission for a leave. Here I had to stand 40 minutes and he slapped me and broke
+        my eardrum. I made a great fuss about it, I went to the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1076" type="subject">army corps
+          headquarters</term> but in the meanwhile <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-633" type="subject">Germans
+          entered</term> the country and I had to withdraw the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-200" type="subject"
+          >denunciation</term>. First, we <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">worked</term>
+        on railway construction for the railway co., later we lay military cables in the ground
+        between <placeName ref="http://www.geonames.org/669258/radna.html">Óradna</placeName> and
+          <placeName ref="http://www.geonames.org/668090/comuna-sant.html">Újradna</placeName>. We
+        had to walk 28 kilometres a day back and forth to the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject"
+          >workplace</term>. We <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          type="subject">worked</term> only during the time that remained. Our correspondence (both
+        incoming and outgoing) was destroyed by the captain of the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1076" type="subject">troop</term>,
+        so we gathered torn pieces of <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-843">letters</term> from the
+        toilet. I had another incident with <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-886" type="subject">Cadet
+          Sergeant</term>
+        <persName ref="#ehri_et_fejs_károly">Károly Fejs</persName> (from <placeName
+          ref="http://www.geonames.org/3044760/szekszard.html">Szekszárd</placeName>) who <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-562" type="subject">beat me</term>
+        and kicked my bottom because I went to get hold of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">food</term>.
+        During the withdrawal from <placeName ref="#ehri_et_fejs_transylvania"
+          >Transylvania</placeName> we walked on foot from <placeName
+          ref="http://www.geonames.org/668090/comuna-sant.html">Újradna</placeName> till <placeName
+          ref="http://www.geonames.org/724443/kosice.html">Kassa</placeName> without any <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-832">food</term>.
+        We got to <placeName ref="http://www.geonames.org/724443/kosice.html">Kassa</placeName> the
+        20th of December. We were terribly crammed in the brick <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-929">factory</term> of <placeName
+          ref="http://www.geonames.org/724443/kosice.html">Kassa</placeName>. It was cold, we had
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">no
+          food</term> and suffered greatly. We were nearly <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">frozen</term>.
+        The brick <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-929"
+          >factory</term> of <placeName ref="http://www.geonames.org/724443/kosice.html"
+          >Kassa</placeName> had a very bad reputation. 7,000 people were kept there, out of whom
+        many were <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject"
+          >frozen</term> and remained without <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">food</term>.
+        In December, they <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-522"
+          type="subject">entrained</term> us, 75 of us in a freight car, not more. We got <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">food</term>
+        once a day. One day we got <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">lunch</term>,
+        the other day <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">dinner</term>, the next day <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >breakfast</term>. We got <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">no
+          water</term> at all and could not buy it either because the freight car was locked. It was
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">full of
+          lice</term> and people got <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-292" type="subject">sick</term>
+        one after the other. We had to use for the toilet either a great teapot or other pots. Signs
+        of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-791" type="subject">spotted
+          fever</term> could be noticed already on the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-940">train</term>. When we arrived
+        there was a <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          type="subject">dead</term> person, the boy next to me. The journey lasted 9 days till
+          <placeName ref="http://www.geonames.org/7872685/donnerskirchen.html"
+          >Donnerskirchen</placeName>. We arrived at 2 am after 9 days of travel and the <term
+          type="subject" ref="#ehri_et_nationalities_germans">Germans</term> ordered us to work
+        already at 6 am. We had to <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">make
+          trenches</term> and bunkers, and had no opportunity to wash. We had no <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">clothes</term>
+        and some had to go to <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          type="subject">work</term> barefoot. Here a sergeant forced me to get out into the snow
+        having a temperature of 40 degrees and he also <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-562" type="subject">broke</term>
+        my cheek-bone with a club. I stayed here 9 days before I <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject">escaped</term>
+        with four of my friends in the possession of a service ticket which was forged. The 7th of
+        January, we crossed the German-Hungarian border and arrived in <placeName
+          ref="http://www.geonames.org/3045190/sopron.html">Sopron</placeName>. From <placeName
+          ref="http://www.geonames.org/3045190/sopron.html">Sopron</placeName> we went to <placeName
+          ref="http://www.geonames.org/3052009/gyor.html">Győr</placeName>, where luckily we
+        contracted <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-493" type="subject"
+          >typhus</term>, which meant 5 weeks stay in <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-282" type="subject"
+          >hospital</term>, till the 1st of March. The winter was then over and we had a good life
+        in the public <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-282"
+          type="subject">hospital</term> of <placeName
+          ref="http://www.geonames.org/3052009/gyor.html">Győr</placeName>. Later, the 1st of March,
+        a 1st lieutenant of the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-474">Arrow Cross</orgName> ordered
+        us to leave the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-282">hospital</term> and put us
+        into the collecting place, the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-650" type="subject"
+          >prisoner</term>s’ <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-496"
+          type="subject">camp</term> of <placeName ref="http://www.geonames.org/3052009/gyor.html"
+          >Győr</placeName>, from where we were taken to <placeName
+          ref="http://www.geonames.org/2766162/schandorf.html">Schandorf</placeName>. The sergeant
+        who received us seized all the few things we had, he took even razors and soaps, etc. The
+        20th of March, they took us to <placeName
+          ref="http://www.geonames.org/3044310/szombathely.html">Szombathely</placeName>, once again
+        searched our luggage and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-655"
+          type="subject">robbed</term> us anew, leaving only a blanket. We then went to <placeName
+          ref="http://www.geonames.org/2766162/schandorf.html">Schandorf</placeName> on foot. Here
+        we were crammed, 750 of us, in a single cellar. In <placeName
+          ref="http://www.geonames.org/2766162/schandorf.html">Schandorf</placeName> we dug trenches
+        and bunkers. We <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          type="subject">worked</term> from 7 am till 4 pm. In the meantime we were maltreated,
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-345" type="subject"
+          >beaten</term>, and struck. I left this <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-496" type="subject">camp</term>,
+        but later I heard it became an unbearable place where they <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject">shot</term>
+        people. Out of 750 people, 250 survived this <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-496" type="subject">camp</term>.
+        Out of my team of 40 people only 8 survived. The rest all <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">died</term>
+        from <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-493" type="subject"
+          >typhus</term>. There were no <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-287" type="subject">doctors</term>
+        at all. They kept these people in a special ward of a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-491" type="subject"
+          >hospital</term> but it practically meant a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">death</term>
+        sentence. A <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-289">veterinarian</term> treated
+        them but had no medicine, and people <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">died</term> of
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-570" type="subject"
+          >starvation</term>. <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-831"
+          type="subject">Food</term> was anyway extremely scarce. We set off from <placeName
+          ref="http://www.geonames.org/2766162/schandorf.html">Schandorf</placeName> because of the
+          <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-004583">Russian</orgName>
+        approach and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-517"
+          type="subject">walked</term> for 16 days. We got food 6 times during these 16 days. The
+        person who got tired or was out of step was <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject">shot</term>.
+        They treated us in an incredible way. An average of 40 people <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">died</term>
+        per day. The 7th of April, in the forest at <placeName
+          ref="http://www.geonames.org/7872422/eisenerz.html">Eisenerz</placeName>, which was one of
+        the greatest metallurgical towns, the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject">SS</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject"
+          >killed</term> 150 Jews with machine guns without any reason. About 10 centimetres behind
+        my back my friend was <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-532"
+          type="subject">shot</term>, too, but we had to proceed, we could not stop. This is how we
+        got to <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-570" type="camp"
+          >Mauthausen</placeName>. In <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-570" type="camp"
+          >Mauthausen</placeName> we lived in <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject">tents</term>.
+        After an <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1105" type="subject"
+          >air raid</term> at night 9 people remained <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">dead</term>
+        and 20 were wounded. There was also another tragic event that affected my spirit a great
+        deal. One of the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1438"
+          type="subject">supervisors</term> was beating a 50-year-old friend of mine badly when I
+        jumped on him. He went to the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject">SS</term> to
+        complain about me. The <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          type="subject">SS</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-345" type="subject"
+          >beat</term> me up so much that they broke my ribs and the bone of my little finger. <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">Food</term>
+        was terribly poor. For breakfast we got 0.2 litre of bitter black <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">coffee</term>,
+        at noon some turnip <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-831"
+          type="subject">soup</term>, and in the evening 100 grams of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">bread</term>.
+        That was all for a day. It was only natural that we became feeble and many <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-745">died</term>.
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          >Death</term> was caused by <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-493" type="subject">typhus</term>,
+        by <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-570" type="subject"
+          >starvation</term> and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-345"
+          type="subject">beating</term>. From <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-570" type="camp"
+          >Mauthausen</placeName> we went to <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-583" type="camp"
+          >Gunskirchen</placeName>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-517" type="subject"
+          >walking</term> for four days. We were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-570" type="subject"
+          >starving</term> a lot on the way; we ate grass, nettles, and leaves. If they noticed that
+        someone was out of step they <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject">shot</term>
+        him, they <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-532"
+          >shot</term> also those weak people who could not carry on <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-517" type="subject"
+        >walking</term>, so there were a great number of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-515" type="subject">dead
+          bodies</term> lying on the road. 50 men were sent ahead to dig <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-748">graves</term>. Once, an <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject">SS</term>
+        soldier disliked the work of a gravedigger. He made him stand in the grave and beat him till
+        he <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject"
+          >died</term>. One could see the inner parts of his skull, that is how much he beat him. It
+        was a terrible view. The others then covered him with soil. When we arrived in <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-583" type="camp"
+          >Gunskirchen</placeName> we were put up in wooden huts. They <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">crammed</term>
+        2,000 people in a <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-837"
+          type="subject">barrack</term> for 500. We were terribly cramped, could not lie down, and
+        slept sitting on the rucksacks. Later, I learnt from the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-004289">Americans</orgName> that
+        they found arsenic in dissected <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-515">dead bodies</term>. They put
+        little portions into the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">food</term> that caused the general <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-494" type="subject"
+          >diarrhoea</term>. If someone went to the toilet he could not get there because he was
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject"
+          >shot</term> by the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          type="subject">SS</term>. We were very much <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">full of
+          lice</term>; there was no water to <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">wash</term>,
+        not even for <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-831"
+          type="subject">drinking</term>. Sometimes we got a decilitre of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">water</term>
+        and could decide to use it for drinking or for washing. <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">Food</term>
+        was turnip <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >soup</term> all the time, and ca. 70 grams of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">bread</term>.
+        Here they did not beat us, they just simply <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject">shot</term>
+        the people they disliked or against whom there were complaints. One day we were carrying the
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject"
+          >dead</term>. One of the boys ran out of energy and put the body down before it was
+        allowed. He was <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-532"
+          type="subject">shot</term>. Around 150-200 of us <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">died</term>
+        daily, completely feeble people who either <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">died</term> of
+        exhaustion or of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-493"
+          type="subject">typhus</term>. We had to bury them in a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1321" type="subject">pit</term>.
+        The <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-004289"
+          >Americans</orgName> found this <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1321" type="subject">pit</term>;
+        that was when they found out about arsenic poisoning. The <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-004289">Americans</orgName>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-573" type="subject"
+          >liberated</term> us the <date when="1945-05-04">4th of May, 1945</date>, and we started
+        to do better. These were my own experiences.</p>
+    </body>
+  </text>
+</TEI>

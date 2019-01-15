@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EHRI-ET-ZIH3011713_EN">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Relacja Róży Reibscheid (301/1713)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>EHRI Edition of Early Holocaust Testimony</edition>
+        <author>
+          <persName>Michał Czajka</persName>
+        </author>
+        <author>
+          <persName>Marta Wojas</persName>
+        </author>
+        <author>
+          <persName>Dagmara Chełstowska</persName>
+        </author>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.ehri-project.eu/">European Holocaust Research
+            Infrastructure</ref>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike
+            4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country ref="https://portal.ehri-project.eu/countries/pl">Poland</country>
+            <repository ref="https://portal.ehri-project.eu/institutions/pl-003146">Jewish
+              Historical Institute in Warsaw</repository>
+            <collection ref="https://portal.ehri-project.eu/units/pl-003146-301#desc-pol">Holocaust
+              Survivor Testimonies (coll. 301)</collection>
+
+          </msIdentifier>
+          <physDesc/>
+        </msDesc>
+        <bibl>JHI, 301, Róża Reibscheid Testimony (301/1713) <textLang mainLang="pl">Original in
+            Polish.</textLang></bibl>
+
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><persName ref="#ehri_et_reibscheid_róża">Róża Reibscheid</persName>, <persName
+          ref="#ehri_et_bauminger_róża">Róża Bauminger</persName>, <placeName
+          ref="http://www.geonames.org/756135/warsaw.html">Warsaw</placeName>, <placeName
+          ref="http://www.geonames.org/756084/wawrzenczyce.html">Wawrzeńczyce</placeName>, <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-297">aid to
+          Jews</term>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-263">sheltering</term>
+        <idno>EHRI-ET-ZIH3011713</idno></creation>
+      <textClass>
+        <keywords>
+          <term>testimony</term>
+        </keywords>
+      </textClass>
+
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <abstract>
+        <p>Aid provided to the author’s family by the Wawrzeńczyce parish priest, Fr. Wojciech
+          Bartosik, and the owner of neighboring estate Buchowski. Blackmail, tip-offs, shelters in
+          surrounding localities and in Kraków, assistance from Fr. Ferdynand Machay. Escape to
+          Warsaw. Aid from Pole Marian Pawełek, who hired the author’s husband in rolling stock
+          repair yard in Pruszków. Her husband perished in the Warsaw uprising.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><persName ref="#ehri_et_reibscheid_róża">Róża Reibscheid</persName> Testimony (doc.
+        301/1713)</p>
+      <p>Original, manuscript, 2 pages, 210 x 295 mm, Polish language</p>
+      <p><persName ref="#ehri_et_reibscheid_róża">Róża Reibscheid</persName>[record taken by]
+          <persName ref="#ehri_et_bauminger_róża">[Róża] Bauminger</persName></p>
+      <p><placeName ref="http://www.geonames.org/3094802/krakow.html">Cracow</placeName></p>
+      <p><placeName ref="http://www.geonames.org/3094802/krakow.html">25 Starowiślna
+        St.</placeName></p>
+      <p>Seamstress</p>
+      <p><term ref="https://portal.ehri-project.eu/keywords/ehri_terms-206" type="subject">Aryan
+          papers</term></p>
+      <p>When Jews from neighboring small towns were being concentrated in <placeName
+          ref="http://www.geonames.org/756084/wawrzenczyce.html">Wawrzeńczyce</placeName>,
+          <placeName ref="http://www.geonames.org/763676/nowe-brzesko.html">Nowe Brzesko</placeName>
+        <note type="gloss">Correctly: the <placeName
+            ref="http://www.geonames.org/764917/miechow.html">Miechów</placeName> district</note>
+        district, <term type="subejct" ref="#ehri_et_nationalities_poles">Poles</term> warned us
+        there something was in the air, especially after word of the incidents in <placeName
+          ref="http://www.geonames.org/757026/tarnow.html">Tarnów</placeName> reached <placeName
+          ref="http://www.geonames.org/756084/wawrzenczyce.html">Wawrzeńczyce</placeName>. <persName
+          ref="#ehri_et_bartosik_wojciech">Wojciech Bartosik</persName>, a parish <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-734">priest</term>
+        who was very kind to us, entrusted us to a squire from a neighboring estate, [named]
+          <persName ref="#ehri_et_buchowski">Buchowski</persName>, who took my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term> on as a
+        mechanic for all farm machinery and for driving a tractor, and his <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">wife</term> recommended me as
+        a seamstress in estates nearby. No one apart from them knew we were Jewish. My <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term>
+        later became head of a co-op warehouse, which gave us a very convenient financial standing,
+        but farmers from <placeName ref="http://www.geonames.org/756084/wawrzenczyce.html"
+          >Wawrzeńczyce</placeName> who knew us would come [to the warehouse].</p>
+      <p>Some <term type="subject" ref="#ehri_et_nationalities_poles">Pole</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-200">turned us
+          in</term>. The <term type="subject" ref="#ehri_et_nationalities_germans">Germans</term>
+        were looking for us all around the neighborhood, they called by the community leader, the
+          <persName ref="#ehri_et_buchowski">Buchowscy</persName>, they found out nothing;
+        eventually, they came looking for us to <placeName
+          ref="http://www.geonames.org/763129/opatkowice.html">Opatkowice</placeName>. The community
+        leader warned me, and at the same time sent his <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">daughter</term> to the
+        warehouse where my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term> was working to
+        warn him. While the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">girl</term> was in the
+        warehouse, the <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-350"
+          >Gestapo</orgName> were already hovering about the yard. My <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term> mounted his
+        bike and <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-204"
+          >escaped</term>, unnoticed by the <term type="subject"
+          ref="#ehri_et_nationalities_germans">Germans</term>. Me and my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">son</term> went to <persName
+          ref="#ehri_et_buchowski">Buchowskis</persName> place, they let me out because the high
+        road and the mid-field roads were all covered, and the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-940">train</term> at the station
+        was delayed 3 hours while all passengers were being searched. I took my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">son</term> to the barber’s to
+        shave his hair so that he wouldn’t be recognizable and I overheard the clients there saying
+        a penal expedition had arrived and had searched through all the bushes by the <placeName
+          ref="#ehri_et_vistula">Vistula</placeName> [river]. Meanwhile, my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term> had called by
+        a <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-734"
+          >priest</term> he knew in <placeName
+          ref="http://www.geonames.org/3092044/michalowice.html">Michałowice</placeName>, who put
+        him up overnight. I went to <placeName ref="http://www.geonames.org/761258/proszowice.html"
+          >Proszowice</placeName> to see <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-731" type="subject">priest</term>
+        <persName ref="#ehri_et_radosz">Radosz</persName> and ask him for advice. He reproached me
+        for not having told him before I was a Jew, he would have arranged a job for my <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term>
+        in <placeName ref="http://www.geonames.org/760778/radom.html">Radom</placeName>, and he
+        would send for horses for me now that would take me back to <placeName
+          ref="http://www.geonames.org/3092044/michalowice.html">Michałowice</placeName>. The day
+        after a two-horse chaise arrived to collect me (I later learned that the <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-734">priest</term>
+        paid 300 zlotys to rent those horses) and I traveled to <placeName
+          ref="http://www.geonames.org/3092044/michalowice.html">Michałowice</placeName> like a
+        lady. There I met my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term> at the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-731" type="subject"
+        >priest</term>’s place. I agreed with my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term> we’d meet in
+          <placeName ref="http://www.geonames.org/3094802/krakow.html">Cracow</placeName>.</p>
+      <p>It was utter hell in <placeName ref="http://www.geonames.org/3094802/krakow.html"
+          >Cracow</placeName>. Some <term type="subject" ref="#ehri_et_nationalities_poles"
+          >Poles</term> we knew were afraid to take us on, we spent every night in a different
+        place. <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-734"
+          >Priest</term>
+        <persName ref="#ehri_et_machay_ferdynand">Machaj</persName> was very kind-hearted to us, he
+        arranged for me to stay with the Norbertines for a few days in Salwator; he helped us out
+        financially and recommended my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term> for the
+        position of a mechanic in the <placeName
+          ref="http://www.geonames.org/3090128/olszanica.html">Olszanica</placeName> estate, 7 km
+        outside <placeName ref="http://www.geonames.org/3094802/krakow.html">Cracow</placeName>.
+        When I left the nunnery I had nowhere to live and we decided to go to <placeName
+          ref="http://www.geonames.org/756135/warsaw.html">Warsaw</placeName>, even though people
+        scared us saying there were searches and <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-550" type="subject"
+          >lapankas</term> on the trains.</p>
+      <p>We went without luggage, my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term> was only
+        wearing a working outfit. We knew no one in <placeName
+          ref="http://www.geonames.org/756135/warsaw.html">Warsaw</placeName>. What were we to do? I
+        recalled the name of our <placeName ref="http://www.geonames.org/756084/wawrzenczyce.html"
+          >Wawrzenice</placeName><note place="bottom">Correctly: Wawrzeńczyce</note> host’s
+        daughter’s mother-in-law. I remembered she lived on <placeName
+          ref="http://www.geonames.org/756135/warsaw.html">Okopowa Street</placeName> but I didn’t
+        know the number. I went from house to house and finally found a door plate. I walked in and
+        said I had some business to do in <placeName
+          ref="http://www.geonames.org/756135/warsaw.html">Warsaw</placeName>, that my host from
+          <placeName ref="http://www.geonames.org/756084/wawrzenczyce.html">Wawrzenice</placeName>
+        sent his commends. She took me in a very friendly way. My <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term> met his
+        friend, engineer <persName ref="#pawełek_marian">Marian Pawełek</persName>, director of a
+        railway production plant in <placeName ref="http://www.geonames.org/761228/pruszkow.html"
+          >Pruszków</placeName>. He helped us financially. I turned to <orgName
+          ref="#ehri_et_rada_główna_opiekuńcza">RGO</orgName> for <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-836" type="subject">clothes</term>
+        for my <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-822"
+          >husband</term>. I told them a made-up story of how I’d come from <placeName
+          ref="http://www.geonames.org/761258/proszowice.html">Proszowice</placeName>, where several
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-819"
+          >families</term> had been <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532">shot dead</term> for
+        allegedly helping the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1215"
+          type="subject">partisans</term>, and since we had been friends with them we feared we
+        would be finished off too and had come to <placeName
+          ref="http://www.geonames.org/756135/warsaw.html">Warsaw</placeName> with just the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-836" type="subject">clothes</term>
+        on our backs. They referred us to <persName ref="#ehri_et_goetel">Ms Goetel</persName>. I
+        dressed my <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-822"
+          >son</term> up as a girl, put a blonde wig with a fringe on his head and moved in with
+          <persName ref="#ehri_et_goetel">Goetel</persName>. The place was first-rate, and so was
+        the board. <persName ref="#ehri_et_goetel">Ms Goetel’s</persName> son-in-law, engineer
+          <persName ref="#ehri_et_kulczycki">Kulczycki</persName> offered my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822">husband</term> a job at his
+        company, and <persName ref="#ehri_et_goetel">Ms Goetel</persName> recommended me as a
+        seamstress and gave me her sewing machine. She found out the truth about us from <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-731" type="subject">priest</term>
+        <persName ref="#ehri_et_machay_ferdynand">Machaj</persName> but it didn’t change her
+        attitude to us in any way; actually, she was all the more kind. Two months later I got a
+        flat from <orgName ref="#ehri_et_rada_główna_opiekuńcza">RGO</orgName> in a building with
+        apartments for the deported. I lived there until the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-254">uprising</term>. That’s when
+        me and my <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-822"
+          >husband</term> parted and I never saw him again.</p>
+      <p>[signature] <persName ref="#ehri_et_reibscheid_róża">Róża Reibscheid</persName></p>
+    </body>
+  </text>
+</TEI>

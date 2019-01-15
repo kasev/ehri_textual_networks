@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EHRI-ET-ZIH301203_EN">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Relacja Efroima Münzera (301/203)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>EHRI Edition of Early Holocaust Testimony</edition>
+        <author>
+          <persName>Michał Czajka</persName>
+        </author>
+        <author>
+          <persName>Marta Wojas</persName>
+        </author>
+        <author>
+          <persName>Dagmara Chełstowska</persName>
+        </author>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.ehri-project.eu/">European Holocaust Research
+            Infrastructure</ref>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike
+            4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country ref="https://portal.ehri-project.eu/countries/pl">Poland</country>
+            <repository ref="https://portal.ehri-project.eu/institutions/pl-003146">Jewish
+              Historical Institute in Warsaw</repository>
+            <collection ref="https://portal.ehri-project.eu/units/pl-003146-301#desc-pol">Holocaust
+              Survivor Testimonies (coll. 301)</collection>
+
+          </msIdentifier>
+          <physDesc/>
+        </msDesc>
+        <bibl>JHI, 301, Efroim Münzer Testimony (301/203) <textLang mainLang="pl">Original in
+            Polish.</textLang></bibl>
+
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date when="1945">1945</date>, <persName ref="#ehri_et_munzer_efroim">Efroim
+          Münzer</persName>, <placeName ref="http://www.geonames.org/7533001/wieliczka.html"
+          >Wieliczka</placeName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-1878" type="camp">Stalowa
+          Wola</placeName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508">labour camps</term>, <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-486">camp
+          life</term>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-566">Ordnungdienst</term>,
+          <idno>EHRI-ET-ZIH301203</idno></creation>
+      <textClass>
+        <keywords>
+          <term>testimony</term>
+        </keywords>
+      </textClass>
+
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <abstract>
+        <p>Liquidation of the ghetto at Wieliczka (Aug. 1942). Transports to the forced labour camp
+          in Stalowa Wola. Individual and mass executions. Author’s escape with the group of 85
+          prisoners (July 1944)</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><persName ref="#ehri_et_munzer_efroim">Efroim Münzer</persName> Testimony (doc.
+        301/203)</p>
+
+      <p>Original, manuscript, 4 pages, 150 x 210 mm, Polish language</p>
+
+      <p><persName ref="#ehri_et_munzer_efroim">Efroim Münzer</persName>, born <date
+          when="1928-01-01">1. 1. 1928</date> in <placeName
+          ref="http://www.geonames.org/772270/gdow.html">Gdów</placeName>, a town in <placeName
+          ref="http://www.geonames.org/7533001/wieliczka.html">Wieliczka</placeName> district</p>
+      <p>Occupation: baker</p>
+      <p>Residence: <placeName ref="http://www.geonames.org/3094802/krakow.html">66/17 Starowiślna
+          [Street]</placeName> in <placeName ref="http://www.geonames.org/3094802/krakow.html"
+          >Cracow</placeName></p>
+      <p>Description of the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-508"
+          type="subject">camp</term> and <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-486" type="subject">life</term> in
+          <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-1878" type="camp"
+          >Stalowa Wola</placeName></p>
+      <p>He stayed in the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-508"
+          type="subject">camp</term> from <date when="1942">1942</date> to <date when="1944"
+          >1944</date>. In <date when="1942-08">August 1942</date>, during a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-115" type="subject"
+          >deportation</term> in <placeName ref="http://www.geonames.org/7533001/wieliczka.html"
+          >Wieliczka</placeName>, they were loaded onto <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-522" type="subject">cattle
+          cars</term>, 100 people in each. He rode on a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-522" type="subject">train</term>
+        for 24 hours during a very hot period and nobody was allowed to approach them with something
+        to drink. Only in <placeName ref="http://www.geonames.org/7531275/debica.html"
+          >Dębica</placeName> a <term type="subject" ref="#ehri_et_nationalities_poles">Pole</term>
+        gave them a bucket of water at the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-660" type="subject">charge</term>
+        of 100 złotys. On the arrival in <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term>,
+        they were received by the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-480"
+          type="subject">camp guards</term> consisting of <term type="subject"
+          ref="#ehri_et_nationalities_belarusians">Belorussians</term> with <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-564" type="subject">whips</term>.
+        There were 3 <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-837"
+          type="subject">barracks</term> for the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1057" type="subject"
+          >laborers</term>. In <date when="1942-08">August 1942</date> there were 80 Jews from
+          <placeName ref="http://www.geonames.org/759301/sieniawa.html">Sieniawa</placeName> there.
+        Since <date when="1942-08">August</date>, there were already 680 (600 from <placeName
+          ref="http://www.geonames.org/7533001/wieliczka.html">Wieliczka</placeName>). The bunks in
+        the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject"
+          >barrack</term> had no paillasses, so that the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-558" type="subject"
+          >laborers</term> slept on the boards. On the first day the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1057" type="subject"
+          >workers</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-653" type="subject"
+          >stood</term> in front of the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject">barrack</term>
+        from five in the morning till the evening. During that time they were thoroughly searched
+        and deprived of everything, from <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-660" type="subject">money</term>
+        and valuables down to a simple leather belt. In the evening the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject">SS</term>
+        <foreign xml:lang="de">Scharführer</foreign>
+        <persName ref="https://portal.ehri-project.eu/authorities/ehri_pers-000364"
+          >Schwamberg</persName> (known as the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-551" type="subject"
+          >liquidator</term> of the <placeName ref="http://www.geonames.org/7530748/przemysl.html"
+          >Przemyśl</placeName>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-546" type="subject"
+          >ghetto</term>) and the <foreign xml:lang="de">Unterscharführer</foreign>
+        <persName ref="#ehri_et_bardok">Brzdok</persName> (probably <persName ref="#ehri_et_bardok"
+          >Bardok</persName>) came to them. <persName
+          ref="https://portal.ehri-project.eu/authorities/ehri_pers-000364">Schwamberg</persName>
+        gave a speech: They have to give away all the valuables. Whoever should go near the fence
+        will automatically be <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-541"
+          type="subject">shot</term>. Whichever of the Jews talks to a civilian during work, be it
+        about the sale of <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832">bread</term> or anything
+        else, will be <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-541"
+          type="subject">shot</term>. Whoever pauses at work, will be <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-541" type="subject"
+        >shot</term>.</p>
+      <p>Directly after this speech, the majority threw away the money or <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-660" type="subject"
+          >valuables</term> they were hiding. In the meantime, as a warning, they <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-653" type="subject">beat</term>
+        several people till blood was drawn, supposedly because they hadn’t given away everything.
+        There was a <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-486"
+          type="subject">reveille</term> at two in the night. They marched out to <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-943" type="subject">work</term> at
+        6; till then they were kept standing. They were taken away their caps and jackets to prevent
+        them from <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject"
+          >escaping</term>. On the way to <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-943" type="subject">work</term> in
+        a <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-944" type="subject"
+          >factory</term> distant by 4 km they were driven with <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-564" type="subject">whips</term>.
+        They had to run all the way. They <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-943" type="subject">worked</term>
+        from 7 am to 6 pm with one 20-minute break at 3 pm for a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">soup</term>.
+        They <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-943" type="subject"
+          >worked</term> in a steelworks. <foreign xml:lang="de">Vorarbeiters</foreign>
+        <note type="gloss">Vorarbeiter (German) – foreman.</note> at <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-943" type="subject">work</term>
+        were <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1075" type="subject"
+          >Volksdeutsche</term>. The greatest sadist among them was <persName ref="#ehri_et_piosik"
+          >Piosik</persName> (rumored to come from <placeName
+          ref="http://www.geonames.org/7530858/poznan.html">Poznań</placeName>). He <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-532"
+          >murdered</term> the Jews with a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-533" type="subject">piece</term>
+        of iron. He once <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-533"
+          type="subject">burned</term> a Jew alive. Most Jews <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">died</term>
+        because of the said <persName ref="#ehri_et_piosik">Piosik</persName>. Almost 8-10 Jews
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject"
+          >escaped</term> everyday from the workplace. Because of that almost every day they had to
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-653" type="subject"
+          >stand</term> 2-3 hours at <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-487" type="subject">roll
+          call</term>. In the evening they were given ab[out] <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-834" type="subject">20dkg</term>
+        of <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          >bread</term> and a <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832">soup</term>, in which there
+        were <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >dirty</term> and unpeeled <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832">potatoes</term>. At the head
+        of a <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject"
+          >barrack</term> stood an <foreign xml:lang="de">Ordnungsdienstmann</foreign>. <note
+          type="gloss">Ordnungsdienstmann (German) – member of the Ordnungsdienst (Order
+          Service)</note> Almost everyday 10-15 of the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-292" type="subject">sick</term>,
+        who lay in the so called <foreign xml:lang="de">Krankenstube</foreign>, <note type="gloss"
+          >Krankenstube (German) - sickroom</note>were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-541" type="subject">shot</term>.
+        These <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-541" type="subject"
+          >murders</term> were committed by an <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject"
+          >SS</term>-<foreign xml:lang="de">Sturmmann</foreign>. In <date when="1942-12">December
+          1942</date>, 121 or 123 Jews were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-541" type="subject">shot</term> as
+        unfit for <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-943" type="subject"
+          >work</term>. Apart from that, 10-15 <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-862" type="subject">people</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject"
+          >died</term> every day (<term ref="https://portal.ehri-project.eu/keywords/ehri_terms-494"
+          type="subject">dysentery</term> and the like). (Since <date when="1942-09"
+          >September</date> there were already <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-862" type="subject">1100</term>
+        Jews). At the head of the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-566"
+          type="subject">OD</term>
+        <note type="gloss">OD - Ordnungsdienst</note> there stood a <term type="subject"
+          ref="#ehri_et_nationalities_germans">German</term> Jew, <persName
+          ref="#ehri_et_goldstein_lindenmann">Goldstein-Lindenmann</persName>, a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-840" type="subject"
+        >pervert</term>, an <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          type="subject">SS</term>-<foreign xml:lang="de">Sturmmann</foreign>’s favorite (He is
+        rumored to be under <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-598">arrest</term> now). At the
+        end of <date when="1942">1942</date> only 300 Jews remained, who <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-943" type="subject">worked</term>
+        already under the <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-438"
+          >Wehrmacht’s</orgName> supervision. After 80 Jews from <placeName
+          ref="http://www.geonames.org/7530748/przemysl.html">Przemyśl</placeName>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-521" type="subject"
+          >arrived</term> (in <date when="1942-12">December 1942</date>), there were already 380
+        Jews. This situation didn’t change until <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-573" type="subject">the
+        end</term>. Once, when two Jews accused the said <persName
+          ref="#ehri_et_goldstein_lindenmann">Goldstein-Lindenmann</persName> of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-562" type="subject">beating</term>
+        the Jews, he <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-200">denounced</term> their
+        supposed intention of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204"
+          type="subject">escape</term>. They were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-541" type="subject">shot</term>.
+        In <date when="1943-03">March 1943</date> he prepared a list of 56 Jews who, as he claimed,
+        were unable to <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-943"
+          type="subject">work</term>. They were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-541" type="subject">shot</term>.
+        In <date when="1944-07">July 1944</date>, during the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-004583">Soviet
+        offensive</orgName>, most people wanted to <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject">escape</term>,
+        but were prevented by <persName ref="#ehri_et_goldstein_lindenmann">Goldstein</persName>.
+        And yet 85 Jews pulled out the fences, cut the barbed wire with scissors and <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject">ran
+          away</term> into the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-265"
+          type="subject">forest</term>. They <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-262" type="subject">stayed</term>
+        there for 2 w[eeks] (until <date when="1945-08-02">August 2</date>). They were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-573" type="subject"
+          >liberated</term> by the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-004583">Soviets</orgName>.</p>
+    </body>
+  </text>
+</TEI>

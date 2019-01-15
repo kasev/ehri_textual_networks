@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EHRI-ET-ZIH3011538_EN">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Relacja Margot Landwirt (301/1538)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>EHRI Edition of Early Holocaust Testimony</edition>
+        <author>
+          <persName>Michał Czajka</persName>
+        </author>
+        <author>
+          <persName>Marta Wojas</persName>
+        </author>
+        <author>
+          <persName>Dagmara Chełstowska</persName>
+        </author>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.ehri-project.eu/">European Holocaust Research
+            Infrastructure</ref>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike
+            4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country ref="https://portal.ehri-project.eu/countries/pl">Poland</country>
+            <repository ref="https://portal.ehri-project.eu/institutions/pl-003146">Jewish
+              Historical Institute in Warsaw</repository>
+            <collection ref="https://portal.ehri-project.eu/units/pl-003146-301#desc-pol">Holocaust
+              Survivor Testimonies (coll. 301)</collection>
+
+          </msIdentifier>
+          <physDesc/>
+        </msDesc>
+        <bibl>JHI, 301, Margot Landwirt Testimony (301/1538) <textLang mainLang="pl">Original in
+            Polish.</textLang></bibl>
+
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date when="1945-08-27">27. 8. 1945</date>, <persName ref="#ehri_et_landwirt_margot"
+          >Margot Landwirt</persName>, <persName ref="#ehri_et_eichhornowa_laura">Laura
+          Eichhorn</persName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-555" type="camp"
+          >Płaszów</placeName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-0" type="camp"
+          >Auschwitz</placeName>, <placeName type="camp"
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-42">Bergen-Belsen</placeName>,
+          <placeName ref="http://www.geonames.org/2955168/aschersleben.html"
+          >Aschersleben</placeName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-496">concentration camps</term>,
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-411"
+          >selection</term>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508">labour camps</term>
+        <idno>EHRI-ET-ZIH3011538</idno></creation>
+      <textClass>
+        <keywords>
+          <term>testimony</term>
+        </keywords>
+      </textClass>
+
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <abstract>
+        <p>The author was in Płaszów camp and August 6, 1944 she was taken to Auschwitz. Living
+          conditions in the camp, selections. Transport to Bergen-Belsen (October 31, 1944), then to
+          Aschersleben. Liberation by American forces during evacuation towards Dachau (April 15,
+          1945)</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><persName ref="#ehri_et_landwirt_margot">Maria Landwirt</persName> Testimony (doc.
+        301/1538)</p>
+      <p>Original, manuscript, 2 pages, 210 x 295 mm, Polish language</p>
+      <p><placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-0" type="camp">Oświęcim
+          [Auschwitz]</placeName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-42" type="camp"
+          >Bergen-Belsen</placeName>, <placeName
+          ref="http://www.geonames.org/2955168/aschersleben.html">Aschersleben</placeName></p>
+      <p><persName ref="#ehri_et_landwirt_margot">Maria Landwirt</persName> born <date
+          when="1927-03-07">7.3.1927</date> in <placeName
+          ref="http://www.geonames.org/2803138/antwerpen.html">Antwerp</placeName>. Raised in
+          <placeName ref="http://www.geonames.org/798544/republic-of-poland.html"
+        >Poland</placeName>. The <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1080">war</term> found her in
+          <placeName ref="http://www.geonames.org/3094802/krakow.html">Cracow</placeName>. On March
+        20, she found herself [in] the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject">ghetto</term>;
+        she was <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-115" type="subject"
+          >deported</term>; on <date when="1943-03-12">March 12, 1943</date>, she got into the
+          <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-555" type="camp"
+          >Płaszów</placeName>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject"
+          >camp</term>. She was told about the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">hanging</term>
+        of two 20-year old <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">girls</term> for leaving the
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject"
+          >camp</term> and going to the city without permits, which made a strong impression on her.
+        Besides, nothing bad happened to her personally there. On <date when="1944-08-06">August 6,
+          1944</date> she was sent to <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-0" type="camp"
+          >Oświęcim</placeName>. 135 people rode in a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-522" type="subject">cattle
+          car</term> with her; at the station the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-824" type="subject"
+          >children</term> and the elderly were segregated. Then they were all taken in front of the
+        baths and there, in the presence of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-485" type="subject">KP-men</term>,
+          <note type="gloss">KP-men, kapomen – a kapo (an inmate functionary)</note> all <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        had to strip naked; then they were all taken to a shed, where they waited for a bath all
+        night, naked, without <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">food</term>. For the slightest movement they were beaten with crops at
+        random by the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-485"
+          type="subject">kapomen</term>. At daybreak they went to the baths in groups; they were
+        deprived of all their belongings; they were shaved, their heads, armpits and nether regions.
+        They were shaved by men and women. Wet after the bath, they were chucked out into a room
+        (most women had been deprived of their <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-836" type="subject">shoes</term>),
+        where were thrown some <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-836"
+          type="subject">rags</term> which they put on wet bodies. They were convinced they were
+        going to a <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-501" type="subject"
+          >crematory</term>, but they were taken to the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject">camp</term>.
+        During her stay in the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567"
+          type="subject">camp</term> it once happened that a certain <term type="subject"
+          ref="#ehri_et_nationalities_hungarians">Hungarian</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-825"
+          >woman</term> overslept and didn’t report for <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-487" type="subject">roll
+          call</term>. A search began and when they found her the <foreign xml:lang="de"
+          >Lagerführer</foreign> laid her on the ground and kept kicking and beating her, in full
+        view of everybody, until she expired. The most horrible thing were <q><term
+            ref="https://portal.ehri-project.eu/keywords/ehri_terms-411" type="subject"
+            >selections</term></q>. That’s when the <term type="subject"
+          ref="#ehri_et_nationalities_germans">German</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-140" type="subject"
+          >doctor</term>
+        <persName ref="https://portal.ehri-project.eu/authorities/ehri_pers-000272"
+          >Mengele</persName>
+        <note type="gloss">In the text: Mengerle</note> appeared. He arranged all the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>,
+        stripped naked, into rows and removed those he didn’t like from the rows. Those <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        were then closed for 24 hours in small rooms, duty rooms, without <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">food</term>,
+        and after that a truck came and took them to the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-501" type="subject"
+          >crematory</term> in <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-2"
+          type="camp">Brzezinka</placeName>
+        <note type="gloss">In the text: in Brzezinki</note> b. There were usually about 100 of such
+        victims. We lived in the constant fear of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject"
+        >death</term>.</p>
+      <p>On <date when="1944-10-31">October 31, 1944</date>, 3000 <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        were <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-115" type="subject"
+          >sent</term> from <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-0"
+          type="camp">Oświęcim</placeName> to <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-42" type="camp"
+          >Bergen-Belsen</placeName>. We stood outdoors throughout the night in our <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject">camp</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-836" type="subject"
+          >rags</term>, waiting for a bath. After the bath there was another <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-411" type="subject"
+          >selection</term>. The elderly, slim or pregnant <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>,
+        as well as <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-824" type="subject"
+          >children</term> were destined for <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">death</term>
+        and immediately separated. The rest was given better <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-836" type="subject">clothes</term>
+        for the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-521" type="subject"
+          >transport</term>. There rode 65 <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        in each <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-522" type="subject"
+          >cattle car</term>. They were given <q>sufficient</q>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >food</term> for the journey for it consisted of one loaf of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">bread</term>,
+        10 dkg of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >margarine</term> and 15 dkg of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">sausage</term>
+        per head for the three days. They relieved nature in the closed car. After three days they
+        arrived in <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-42"
+          type="camp">Bergen-Belsen</placeName>. They reported for <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-487" type="subject">roll
+          call</term>, where they were kept for 5 hours, after which they were taken to <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject">tents</term>,
+        where there was a bit of damp straw and 2 thin blankets per each. They washed outdoors in
+          <date when="1945-12">December</date>, at water taps, usually at dawn.</p>
+      <p>One day the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-837"
+          type="subject">tents</term> were torn away by a storm, so the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-650" type="subject"
+          >prisoners</term> were moved to the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject">camp</term>
+        kitchen, where those 1500 <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-825"
+          type="subject">women</term> stayed squeezed for 4 days. Then they were moved to the <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-837"
+          >barracks</term> left by <term type="subject" ref="#ehri_et_nationalities_americans"
+          >American</term> citizens, where it was more bearable while in terms of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">food</term>,
+        it was disastrous as they were sometimes given nothing for 24 hours. That depended on the
+        Sturmmann’s <note type="gloss">SS-Sturmmann – a military rank in the SS (the equivalent of
+          Corporal)</note> 2 disposition. After 3 pm it was dark, so they usually went to sleep.
+        There was no work and they were afflicted by idleness and <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-569" type="subject">hunger</term>.
+        After three months they took us to <placeName
+          ref="http://www.geonames.org/2955168/aschersleben.html">Aschersleben</placeName> (near
+          <placeName ref="http://www.geonames.org/2874545/magdeburg.html">Magdeburg</placeName>).
+        Our <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject"
+          >work</term> consisted in testing pipes for airplanes. We <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-253">sabotaged</term> that work
+        with the knowledge of the <term type="subject" ref="#ehri_et_nationalities_germans"
+          >German</term> foreman <persName ref="#ehri_et_riesener_otto">Otto Riesener</persName>.
+        There it was bearable, but on <date when="1945-04-12">April 12</date> we were sent
+          towards<placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-177" type="camp"
+          >Dachau</placeName>. It turned out, however, that the road we were supposed to take was
+        occupied. In <placeName ref="http://www.geonames.org/2803891/zoerbig.html"
+          >Zörbig</placeName>, <note place="bottom">In the text: Zerbig</note> it turned out that
+        the <term type="subject" ref="#ehri_et_nationalities_americans">Americans</term> were 30 km
+        away from <placeName ref="http://www.geonames.org/2879139/leipzig.html">Leipzig</placeName>,
+        so part of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          type="subject">SS men</term> fled and the rest rode with the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-650" type="subject"
+          >prisoners</term> on carts. Part of the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject"
+          >fled</term> to the forest and that’s where they waited until the <term type="subject"
+          ref="#ehri_et_nationalities_americans">American</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1076" type="subject"
+          >army</term> came on <date when="1945-04-15">April 15, 1945</date>.</p>
+      <p><placeName ref="http://www.geonames.org/3094802/krakow.html">Cracow</placeName>, <date
+          when="1945-08-27">August 27, 1945</date></p>
+      <p><persName ref="#ehri_et_landwirt_margot">Margoth Landwirth</persName></p>
+      <p>Written down by <persName ref="#ehri_et_eichhornowa_laura">Dr Laura
+        Eichhornowa</persName></p>
+    </body>
+  </text>
+</TEI>

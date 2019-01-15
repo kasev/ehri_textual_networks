@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EHRI-ET-DEGOB0594_EN">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Protocol no. 594.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>EHRI Edition of Early Holocaust Testimony</edition>
+        <author>
+          <persName>Zoltán Vági</persName>
+        </author>
+        <author>
+          <persName>Gábor Kádár</persName>
+        </author>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.ehri-project.eu/">European Holocaust Research
+            Infrastructure</ref>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike
+            4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country ref="https://portal.ehri-project.eu/countries/hu">Hungary</country>
+            <repository ref="https://portal.ehri-project.eu/institutions/hu-002737">Hungarian Jewish
+              Archives</repository>
+            <collection ref="https://portal.ehri-project.eu/units/hu-002737-hu_hja_pih_i_m#desc-eng"
+              >National Relief Committee for Deportees (interview project, DEGOB)</collection>
+
+          </msIdentifier>
+          <physDesc/>
+        </msDesc>
+        <bibl>HJA, DEGOB, Protocol no. 594 <textLang mainLang="hu">Original in
+          Hungarian.</textLang></bibl>
+
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date when="1945-07-04">4. 7. 1945</date>, <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-004602">National Committee for
+          Attending Deportees (DEGOB)</orgName>, <placeName type="camp"
+          ref="https://portal.ehri-project.eu/keywords/ehri-camps-2">Auschwitz</placeName>,
+          <placeName ref="http://www.geonames.org/706950/kamianets-podilskyi.html"
+          >Kamenets-Podolsk</placeName>, <placeName
+          ref="http://www.geonames.org/690548/uzhgorod.html">Ungvár/Uzhorod</placeName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-42">Bergen-Belsen</placeName>,
+          <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-746"
+          >Salzwedel</placeName>, <idno>EHRI-ET-DEGOB0594</idno></creation>
+      <textClass>
+        <keywords>
+          <term>testimony</term>
+        </keywords>
+      </textClass>
+
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <abstract>
+        <p>Testimony of K.E. (1908) and G.F. [Fanny Grünzberger] (1911) on the Kamenets-Podolsk
+          deportations in 1941, ghettoization in Ungvár/Uzhorod and deportation to Auschwitz in May,
+          1944, and their sufferings in the Bergen-Belsen and Salzwedel labour camps.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>DEGOB Protocol no 594.</p>
+
+      <p>Keywords: <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-335" type="subject"
+          >anti-Jewish measures</term>, <date when="1941">1941</date>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-518" type="subject"
+          >deportations</term> from <placeName ref="http://www.geonames.org/719819/hungary.html"
+          >Hungary</placeName>, <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-655"
+          type="subject">plunder</term>, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-552" type="subject"
+          >ghettoization</term>, <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-411"
+          type="subject">selection</term>, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-529" type="subject"
+          >extermination</term>, <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          type="subject">forced labour</term>, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-573" type="subject"
+          >liberation</term></p>
+
+      <p><persName ref="#ehri_et_gunzenberger_fanny">Fanny Günzenberger</persName> presents the
+        following: My personal tragedy started in <date when="1941">1941</date>, when they collected
+        Jews of <term type="subject" ref="#ehri_et_nationalities_poles">Polish</term> origin in
+          <placeName ref="http://www.geonames.org/719819/hungary.html">Hungary</placeName>. That
+        time, they took me and my parents, 5 brothers and sisters of mine and a great number of
+        relatives. No one remained alive except for me. I managed to <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject">escape</term>
+        from <placeName ref="http://www.geonames.org/706950/kamianets-podilskyi.html"
+          >Kamenetz-Podolsk</placeName> before they <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject">shot</term>
+        all those enormous number of Jews. The way back was really horrible, I dared to walk only
+        during the night in the bottom of ditches. During the day I <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-262" type="subject">hid</term> in
+        a stack of hay or in a stall. I <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832">ate</term> what I found on
+        the fields and in the woods, edible plants, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+        >carrots</term>, and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">potatoes</term>. For me, the suffering in <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject"
+          >Germany</term> was not a surprise or a novelty. Finally, I managed to get back into
+          <placeName ref="http://www.geonames.org/719819/hungary.html">Hungary</placeName>, however
+        I did not return to our village but worked for Jewish <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-819" type="subject"
+          >families</term> in <placeName ref="http://www.geonames.org/690548/uzhgorod.html"
+          >Ungvár</placeName>. In <date when="1943">1943</date>, when <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject"
+          >Germans</term> entered the country, they constructed the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-552" type="subject">ghetto</term>
+        in <placeName ref="http://www.geonames.org/690548/uzhgorod.html">Ungvár</placeName> soon,
+        and all Jews had to enter it. We still <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">lived</term>
+        well in the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-552"
+          type="subject">ghetto</term> disregarding that they beat and interrogated richer Jews to
+        find out where they hid their valuables. Around 6 weeks later, we were entrained and we
+        arrived in <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-2"
+          >Auschwitz</placeName> after a three-day-long miserable journey. Here they immediately
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-411" type="subject"
+          >separated</term> strong <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1207" type="subject">people</term>
+        suitable for hard <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          type="subject">work</term> from the elderly, the young and the weak. They took us into the
+        baths, seized our belongings, cut our hair, washed us, and let us stay nude in the cold room
+        for hours before they gave us some ragged <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-836" type="subject"
+        >clothes</term>. They led us into a <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837">barrack</term> where there
+        was empty place only on the ground. We spent all the time in <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-2">Auschwitz</placeName> queuing
+        up for <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-487" type="subject"
+          >roll calls</term>. From the morning till noon there was a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-487" type="subject">roll
+          call</term>, then there was the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-487" type="subject">roll
+          call</term> before lunch, and another two hours waiting in the afternoon. In between, the
+        hut was cleaned and we were forced to stay in the open. There were frequent <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-411" type="subject"
+          >selections</term> causing always terrible anxiety as we already knew what they meant, why
+        flames were coming out of the chimneys of the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-501" type="subject"
+          >crematorium</term> day and night. Only 10 days passed before they <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-411" type="subject"
+          >selected</term> me into a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-521" type="subject"
+          >transport</term> for <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          type="subject">work</term>. They made me have another bath and put me on a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-522" type="subject">train</term>
+        heading to <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-42"
+          >Bergen-Belsen</placeName>. We were glad that the two of us who knew each other still from
+          <placeName ref="http://www.geonames.org/719819/hungary.html">Hungary</placeName> could
+        stay together, and that we got out of <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-2">Auschwitz</placeName> that
+        meant constant anxiety. We did not have a better situation either in <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-42">Bergen-Belsen</placeName>.
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >Food</term> was extremely <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-570" type="subject">scarce</term>,
+        treatment was cruel. <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1207"
+          type="subject">People</term> were beaten up all the time. We had to do some awfully
+        difficult <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject"
+          >work</term> carrying heavy loads. Every day a lot of us <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">died</term>
+        here. Luckily, we did not stay here long either but set off soon for <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-746">Salzwedel</placeName>. The
+        lager in <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-746"
+          >Salzwedel</placeName> was small, altogether 1,300 <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        were kept here. They treated us less cruelly as in <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-42">Bergen</placeName>. Daily
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >food</term> comprised of half litre of black <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">coffee</term>
+        in the morning and the evening, some watery vegetable <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">soup</term> at
+        noon and 200 grams of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">bread</term>. Sometimes we got 20 grams of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >margarine</term>, or <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">marmalade</term>. We were awfully <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-570" type="subject"
+          >starving</term>. We had a lot of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">work</term> to
+        do even if it was not so difficult. Mostly we shovelled sand and pebbles for 12 hours a day.
+        Many <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject"
+          >died</term> of exhaustion. Everyone was as thin as a skeleton. When <term type="subject"
+          ref="#ehri_et_nationalities_americans">Americans</term> got closer they wanted to take us
+        away but had no time to do so as <term type="subject" ref="#ehri_et_nationalities_americans"
+          >Americans</term> already <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-573" type="subject">arrived into
+          the camp</term>.</p>
+    </body>
+  </text>
+</TEI>

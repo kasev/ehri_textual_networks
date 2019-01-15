@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EHRI-ET-JMP017_EN">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Löbner, Walter: Testimony on Nazi crimes in concentration camps (protocol no.
+          3)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>EHRI Edition of Early Holocaust Testimony</edition>
+        <author>
+          <persName>Michal Frankl</persName>
+        </author>
+        <author>
+          <persName>Magdalena Sedlická</persName>
+        </author>
+        <author>
+          <persName>Wolfgang Schellenbacher</persName>
+        </author>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.ehri-project.eu/">European Holocaust Research
+            Infrastructure</ref>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike
+            4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country ref="https://portal.ehri-project.eu/countries/cz">Czech Republic</country>
+            <repository ref="https://portal.ehri-project.eu/institutions/cz-002279">Jewish Museum in
+              Prague</repository>
+            <collection ref="https://portal.ehri-project.eu/units/cz-002279-collection_jmp_shoah_dp"
+              >Documents of Persecution</collection>
+            <idno>inventory number 80 (Memoirs, and literary and expert accounts of the persecution
+              period, written after the war)</idno>
+
+          </msIdentifier>
+          <physDesc/>
+        </msDesc>
+        <bibl>JMP, DP, inv. no 80 <textLang mainLang="de">Original in German.</textLang></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1945-05-14">14. 5. 1945</date>, <date when="1945-08-26">26. 8. 1945</date>,
+          <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/terezin-terms-keyword-jmp-657">Dokumentační
+          akce</term>, <persName ref="#ehri_et_lobner_walter">Walter Löbner</persName>, <placeName
+          ref="http://www.geonames.org/2884403/kremmen.html">Kremmen</placeName>, <placeName
+          ref="http://www.geonames.org/3067696/prague.html">Prague</placeName>
+        <idno>EHRI-ET-JMP017</idno>
+      </creation>
+      <textClass>
+        <keywords>
+          <term>testimony</term>
+        </keywords>
+      </textClass>
+
+      <langUsage>
+        <language ident="en" usage="100">English</language>
+      </langUsage>
+
+      <abstract>
+        <p>Testimony of Walter Löbner, which became a part of the Documentation campaign, Prague.
+          Löbner was arrested by the Gestapo in April 1939 for his antifascist views, then he was
+          imprisoned in several concentration camps (Sachsenhausen, Oranienburg, Auschwitz, Dora).
+          In his testimony he is listing particular names of several Gestapo and SS members, who
+          were especially cruel to the prisoners. He describes their behaviour and methods of
+          torturing the inmates.</p>
+      </abstract>
+
+
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1" facs="EHRI-ET-JMP017_01.jpg"/>
+
+      <p>Extract from the Statement of Dr <persName ref="#ehri_et_lobner_walter">Walter
+          Löbner</persName>, born <date when="1903-01-27">27.1.1903</date></p>
+
+      <p>In the <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-88" type="camp"
+          >Ellrich im Harz</placeName>
+        <term type="keyword" ref="https://portal.ehri-project.eu/keywords/ehri_terms-567"
+          >camp</term>, the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567">camp</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-477"
+          >commandant</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS
+          Oberscharführer</term>
+        <persName ref="#ehri_et_brinkmann_otto">Brinkmann</persName> forced a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483" type="subject"
+          >prisoner</term> who had been accused on <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-6922" type="subject"
+          >cannibalism</term> to <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">eat</term> human body parts in front of witness, even having salt and
+        pepper passed to him. On the same day, he had the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483" type="subject"
+          >prisoner</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          >killed</term>.</p>
+
+
+      <p><placeName ref="http://www.geonames.org/2884403/kremmen.html">Kremmen</placeName>, <date
+          when="1945-05-14">14.5.1945</date></p>
+
+      <p>
+        <term ref="https://portal.ehri-project.eu/keywords/terezin-terms-keyword-jmp-657"
+          type="subject">Dokumentační akce</term>
+        <date when="1945-08-26">26.VIII.1945</date>
+      </p>
+
+      <p>
+        <persName ref="#ehri_et_shek_zeev">Zeev Scheck</persName>
+      </p>
+
+      <pb n="2" facs="EHRI-ET-JMP017_02.jpg"/>
+      <p>Transcript</p>
+
+      <p><placeName ref="http://www.geonames.org/2884403/kremmen.html">Kremmen</placeName>, <date
+          when="1945-05-14">14.5.1945</date></p>
+
+      <p>I, Dr <persName ref="#ehri_et_lobner_walter">Walter Löbner</persName>, born <date
+          when="1903-01-27">27.01.1903</date> in <placeName
+          ref="http://www.geonames.org/3075843/hermanova-hut.html">Hermannshütte</placeName> in
+          <placeName ref="http://www.geonames.org/3077311/czechia.html">Bohemia</placeName>, a
+          <placeName ref="http://www.geonames.org/8505031/czechoslovakia.html"
+          >Czechoslovak</placeName>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1147"
+          >citizen</term>, last living at <placeName
+          ref="http://www.geonames.org/3067696/prague.html">Prague</placeName>-<placeName
+          ref="http://www.geonames.org/3067696/prague.html">Vinohrady</placeName>, <placeName
+          ref="http://www.geonames.org/3067696/prague.html">Fochova</placeName> 9, was <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-598"
+          >arrested</term> by the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-003045">Prague Gestapo</orgName>
+        on <date when="1939-04-18">18.04.1939</date> and imprisoned in several different <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-496">concentration
+          camps</term> in <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159">Germany</term> (<placeName
+          type="camp" ref="https://portal.ehri-project.eu/keywords/ehri_camps-803"
+          >Sachsenhausen</placeName>, <placeName type="camp"
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-847">Oranienburg</placeName>,
+          <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-0" type="camp"
+          >Auschwitz</placeName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-3" type="camp">Auschwitz
+          3</placeName>, <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-433"
+          type="camp">Gross Rosen</placeName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-70" type="camp">Dora</placeName>,
+          <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-88" type="camp">Ellrich
+          im Harz</placeName>, <placeName type="camp"
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-847">Oranienburg</placeName>)
+        until I was able to <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204"
+          type="subject">escape</term> to freedom on <date when="1945-04-21">21.04.1945</date>. At
+        the moment, I am in <placeName ref="http://www.geonames.org/2884403/kremmen.html"
+          >Kremmen</placeName>, because the garrison and population is without a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-287" type="subject">doctor</term>,
+        and I am employed as the head <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-287" type="subject">doctor</term>
+        in a newly founded city <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-282"
+          type="subject">hospital</term>.</p>
+
+      <p>Until the loss of the <placeName ref="#ehri_et_sudeten">Sudetenland</placeName> and the
+        occupation by the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159">Germans</term>, I was a
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-287" type="subject"
+          >doctor</term> and surgeon in <placeName
+          ref="http://www.geonames.org/3071024/marianske-lazne.html">Marianské Lázně</placeName> and
+        the interim head of the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-282"
+          type="subject">hospital</term> there. I made no secret of my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-968">antifascist</term> opinions
+        which, in <date when="1939-04">April 1939</date>, let my <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-598">arrest</term>. The <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-598">arrest</term>
+        warrant stated the reason for my imprisonment as <q>strong suspicion of high treason against
+          the <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159"
+            >German</term> people</q>.</p>
+
+      <p>During the six-year path of martyrdom and suffering, I had the opportunity to learn about
+        the terrible, sadistic methods of the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-350">Gestapo</orgName> and the
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          >SS</term>, both first-hand and by observation. As I want to play my part in making sure
+        that those responsible are punished, I want to make the names of several perpetrators that I
+        know available to the commendable investigating authorities.</p>
+      <p> 1. The <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-350"
+          >Gestapo</orgName> and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          type="subject">SS man</term>, Commissioner <persName ref="#ehri_et_wigger_hubert"
+          >Wiggers</persName> of the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-003045">Prague Gestapo</orgName>,
+        who imprisoned me and sent me to the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-496" type="subject">concentration
+          camp</term> without affording me – a <term type="subject"
+          ref="#ehri_et_nationalities_czechs">Czech</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1147"
+          >citizen</term> – the right to a proper <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1130">trial</term>.</p>
+      <p>2. The <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject"
+          >SS man</term> and director of the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-350">Gestapo</orgName>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-669"
+          >prison</term>
+        <placeName ref="http://www.geonames.org/3068601/pankrac.html">Pankrac</placeName> in
+          <placeName ref="http://www.geonames.org/3067696/prague.html">Prague</placeName>, by the
+        name of <persName ref="#ehri_et_zoppa">Zoppa</persName> or something similar, who often
+        terrorised the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-483"
+          type="subject">prisoners</term> personally with beatings. He broke two of my ribs on <date
+          when="1939-09-16">16.09.1939</date> by punching me.</p>
+      <p>3. The <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1119"
+          >policeman</term>
+        <persName ref="#ehri_et_bohlke_max">Max Böhlke</persName> – or something similar – from
+          <placeName ref="http://www.geonames.org/2879139/leipzig.html">Leipzig</placeName> who was
+        a prison guard and burst my eardrum by punching me whilst I was in <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-669">prison</term> in <placeName
+          ref="http://www.geonames.org/3067696/prague.html">Prague</placeName>, and as a result I
+        got a terrible middle ear <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-292">infection</term>, and lost my
+        hearing.</p>
+      <p>4. In the <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-496"
+          >concentration camp</term>
+        <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-803" type="camp"
+          >Sachsenhausen</placeName>
+        <placeName type="camp" ref="https://portal.ehri-project.eu/keywords/ehri_camps-847"
+          >Oranienburg</placeName> near <placeName
+          ref="https://portal.ehri-project.eu/keywords/jc-places-place-jmp-1085">Berlin</placeName>,
+        the following <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS men</term> who are known
+        to me by name and whose unheard of brutality – both physical and mental – was an outrage to
+        even the most primitive requirements of a <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-650">prisoner</term>’s human
+        rights: <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          >Oberscharführer</term>
+        <persName ref="#ehri_et_bugdahle">Bugdahle</persName>, <persName ref="#ehri_et_ficker_fritz"
+          >Fickert</persName>, <persName ref="#ehri_et_van_deezen">Van Deezen</persName>, <persName
+          ref="#ehri_et_birke">Birke</persName>, <persName ref="#ehri_et_kaiser">Kaiser</persName>,
+          <persName ref="#ehri_et_schubert_wilhelm">Schubert</persName>, <persName
+          ref="#ehri_et_brumm_karl">Brumm</persName>, <persName ref="#ehri_et_sorge_gustav">Gustav
+          Sorge</persName>, <persName ref="#ehri_et_sinke">Sinke</persName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477">Camp Commandant</term>
+        <persName ref="https://portal.ehri-project.eu/authorities/ehri_pers-001244"
+          >Schwarzhuber</persName> from <placeName ref="http://www.geonames.org/2867714/munich.html"
+          >Munich</placeName> who was later the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477">commandant</term> in
+          <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-2" type="camp"
+          >Birkenau</placeName>, <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-477"
+          type="subject">Commandant</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          >Sturmbannführer</term> Heydrich later <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477">Commandant</term>
+        <orgName ref="#ehri_et_heinkel_werke_oranienburg">Heinkel-Oranienburg</orgName>. They have,
+        along with many others whose names I don’t know, contributed to, or directly caused, the
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject"
+          >deaths</term> of thousands of innocent <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483">people</term> through
+        beatings with their fists and sticks, through so-called <q>sport</q> and other torments, the
+        withholding of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">food</term> and were also involved in the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject">killing</term>
+        of many <term type="subject" ref="#ehri_et_nationalities_russians">Russian</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-511" type="subject">prisoners
+          of war</term> in the summer and autumn of <date when="1941">1941</date>.</p>
+      <p>5. <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          >Sturmführer</term>
+        <persName ref="https://portal.ehri-project.eu/authorities/ehri_pers-000187"
+        >Höss</persName>(name unknown) in <date when="1940">1940</date> the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477">camp commandant</term> in
+          <placeName type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_camps-803"
+          >Sachsenhausen</placeName> and later in <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-0" type="camp"
+          >Auschwitz</placeName>, is the person responsible for the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-518">deportation</term> and <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject">killing</term>
+        by <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-534" type="subject"
+          >gas</term> and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-570"
+          type="subject">starvation</term> of one and a half million <term type="subject"
+          ref="#ehri_et_nationalities_hungarians">Hungarian</term>, <term type="subject"
+          ref="#ehri_et_nationalities_romanians">Romanian</term>, <term type="subject"
+          ref="#ehri_et_nationalities_slovaks">Slovakian</term>, <term type="subject"
+          ref="#ehri_et_nationalities_italians">Italian</term> and <term type="subject"
+          ref="#ehri_et_nationalities_greeks">Greek</term> Jews.</p>
+      <p>6. For the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532">killing</term> by <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-570"
+          >starvation</term>, terror, epidemics, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-534">gas</term>, <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-532"
+          >shooting</term>, beating, torture and similar of 7 million Jews from the other countries
+        of Europe and many hundreds of thousands of non-Jews in the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-496">camps</term> of <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-0" type="camp"
+          >Auschwitz</placeName> and <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-2" type="camp"
+          >Birkenau</placeName>, the following <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS men</term> are <pb n="3"
+          facs="EHRI-ET-JMP017_03.jpg"/> guilty: the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477">camp commandants</term>
+        <persName ref="https://portal.ehri-project.eu/authorities/ehri_pers-000587"
+          >Auemier</persName>, <persName ref="#ehri_et_schwarz">Schwarz</persName>, <persName
+          ref="#ehri_et_fritzsch_karl">Fritsch</persName>, <persName ref="#ehri_et_hossler_franz"
+          >Hessler</persName>, <persName
+          ref="https://portal.ehri-project.eu/authorities/ehri_pers-000019">Baer</persName>,
+          <persName ref="https://portal.ehri-project.eu/authorities/ehri_pers-001244"
+          >Schwarzhuber</persName>, <persName
+          ref="https://portal.ehri-project.eu/authorities/ehri_pers-000187">Höss</persName>.</p>
+      <p>7. In the <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-506"
+          >women’s camp</term>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-1" type="camp">Auschwitz
+          I</placeName>
+        <placeName type="camp" ref="https://portal.ehri-project.eu/keywords/ehri_camps-22"
+          >Harmense</placeName>, the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">female</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-478" type="subject"
+          >guard</term> Major <persName ref="#ehri_et_rendel_klein">Rendel</persName> (name unknown)
+        née <persName ref="#ehri_et_rendel_klein">Klein</persName> was involved in the harassment
+        and physical and mental abuse of the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">female</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-483" type="subject"
+          >prisoners</term> and is to blame for the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">deaths</term>
+        of many.</p>
+      <p>8. The same is true for the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-496" type="subject">women’s
+          concentration camp</term>
+        <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-1" type="camp">Auschwitz
+          1</placeName>
+        <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-10" type="camp"
+          >Budy</placeName> and the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">female</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-478"
+          >guard</term> Frau <persName ref="#ehri_et_hasse_elisabeth">Hasse</persName> from
+          <placeName ref="http://www.geonames.org/2918987/goerlitz.html">Görlitz</placeName>, who
+        was later the head of <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556">labour</term> in the <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-506">women’s
+          camp</term>
+        <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-2">Birkenau</placeName>
+        and took part in the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-411">selections</term> of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        who were no longer able to <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556">work</term> and so
+        contributed to the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          type="subject">deaths</term> of many <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject"
+        >women</term>.</p>
+      <p>9. The following so-called <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-287" type="subject">doctors</term>
+        from the <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          >SS</term> made personal decisions about <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject">killing</term>
+        hundreds of thousands of <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483">people</term> who were unable
+        to <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          >work</term> but also completely healthy <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483">people</term> through the use
+        of phenol injections into the heart, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-534" type="subject">gas</term>, by
+        being burnt alive, use in <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-495"
+          type="subject">experimental</term> operations as medical guinea pigs, etc. <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          >Sturmbannführer</term> Dr <persName ref="#ehri_et_wirths_eduard">Wirths</persName>
+        (spelling unknown), <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">Hauptsturmführer</term> Dr
+          <persName ref="https://portal.ehri-project.eu/authorities/ehri_pers-000272"
+          >Mengele</persName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">Hauptsturmführer</term> Dr
+          <persName ref="#ehri_et_fischer_horst">Fischer</persName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">Sturmführer</term> Dr
+          <persName ref="#ehri_et_rohde_werner">Rode</persName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">Sturmführer</term> Dr
+          <persName ref="#ehri_et_klein_fritz">Klein</persName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">Sturmführer</term> Dr
+          <persName ref="#ehri_et_konig_hans_wilhelm">König</persName>, Dr <persName
+          ref="https://portal.ehri-project.eu/authorities/ehri_pers-001266">Lucas</persName>, Dr
+          <persName ref="https://portal.ehri-project.eu/authorities/ehri_pers-001165"
+          >Thilo</persName>.</p>
+      <p>10. The mutilation of living <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483">persons</term> through <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-668" type="subject"
+          >sterilisation</term>, castration and similar operations were carried out particularly by
+        the <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-404"
+          >Luftwaffe</orgName>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-287" type="subject"
+          >doctor</term>, <persName
+          ref="https://portal.ehri-project.eu/authorities/ehri_pers-000824">Schumann</persName> or a
+        name similar to that.</p>
+      <p>11. In the so-called <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825">women</term>’s block of the
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-826" type="subject"
+          >men</term>’s <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567">camp</term>
+        <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-1" type="camp">Auschwitz
+          1</placeName>, thousands of healthy <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        were mutilated by injections, exposure to radiation and operations and later violently <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject"
+          >murdered</term>, for which the nine or ten named <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-287" type="subject">doctors</term>
+        are responsible.</p>
+      <p>12. Involved in the mass shootings in Block 11 of the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-496" type="subject">concentration
+          camp</term>
+        <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-0" type="camp"
+          >Auschwitz</placeName> were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject">SS
+          Oberscharführer</term>
+        <persName ref="#ehri_et_kleeman_hermann">Kleemann</persName>– later the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477" type="subject">camp
+          commandant</term> in <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-1272" type="camp"
+          >Janina</placeName> and <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS Unterscharführer</term>
+        <persName ref="#ehri_et_schmidt_max">Schmidt</persName> (spelling unknown) from <placeName
+          ref="http://www.geonames.org/2842647/saarbruecken.html">Saarbrücken</placeName>.</p>
+      <p>13. <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          >Oberscharführer</term>
+        <persName ref="#ehri_et_glaue_bernhard">Glaue</persName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477">camp commandant</term> in
+          <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-1" type="camp"
+          >Auschwitz 1</placeName>
+        <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-10" type="camp"
+          >Budy</placeName> is responsible for the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532">deaths</term> of many <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-483">people</term>
+        through physical stress and forcing them to work 19-hour <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">work
+          days</term> without sufficient nutrition.</p>
+      <p>14. As the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567">camp</term>
+        <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-0" type="camp"
+          >Auschwitz</placeName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-2" type="camp"
+          >Birkenau</placeName> was emptied in <date when="1945-01">January 1945</date> due to the
+        advance of the victorious <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-004583">Red Army</orgName> and the
+          <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-483"
+          >prisoners</term> were deported to <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159">Germany</term>, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject">SS
+          Rottenführer</term>
+        <persName ref="#ehri_et_niemeier_albert">Niemeier</persName> from <placeName
+          ref="http://www.geonames.org/2910831/hannover.html">Hannover</placeName>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject"
+          >shot</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-483"
+          >prisoners</term> in the neck and left their bodies where they fell on the 18-day <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-517" type="subject">march</term>
+        from <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-3" type="camp"
+          >Auschwitz 3</placeName>
+        <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-1272" type="camp"
+          >Janina</placeName> to <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-433" type="camp">Gross
+          Rosen</placeName> in <placeName ref="#ehri_et_silesia">Silesia</placeName> if they were no
+        longer able to walk.</p>
+      <p>15. In the <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-88"
+          type="camp">Ellrich</placeName>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject"
+          >camp</term> in Harz, the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-477">camp commandant</term>, <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216">SS
+          Oberscharführer</term>
+        <persName ref="#ehri_et_brinkmann_otto">Brinkmann</persName>, forced a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483" type="subject"
+          >prisoner</term> who had been accused on <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-6922" type="subject"
+          >cannibalism</term> to <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">eat</term> human body parts in front of witnesses, even having salt and
+        pepper passed to him. On the same day, he had the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483" type="subject"
+          >prisoner</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject"
+          >killed</term>.</p>
+      <p>16. As the <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-88"
+          type="camp">Ellrich</placeName>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-567"
+          >camp</term> in Harz was forced to <orgName ref="#ehri_et_heinkel_werke_oranienburg"
+          >Heikel-Oranienburg</orgName> in <date when="1945">1945</date>, the leader of the
+        transport, <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216"
+          type="subject">Oberscharführer</term>
+        <persName ref="#ehri_et_gaudeck_karl">Gaudeck</persName>, was responsible for the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">death</term>
+        of many hundreds of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-483"
+          type="subject">prisoners</term> due to insufficient distribution of <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832">food</term>.</p>
+      <p>17.This is just a small excerpt of the horrific catalogue of guilt of <persName
+          ref="https://portal.ehri-project.eu/authorities/ehri_pers-000185">Hitler</persName>’s dogs
+        of Hell and many names as I can remember. The number of the innocent <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">dead</term> is
+        without end, including my whole <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-819">family</term>, my parents and
+        siblings and I can be considered some kind of wonder of the world, that I managed to survive
+        the past 6 years of the most terrible mental, spiritual, physical and sexual distress, and,
+        in the last hours – through a brave <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject">escape</term>
+        over the wire – was able to avoid physical annihilation. To the public prosecutors, who
+        might perhaps be helped by this indictment document, I would like to say one sentence, that
+        I often recited in the shadow of the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-499" type="subject">gas
+          chambers</term> in <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-0"
+          type="camp">Auschwitz</placeName> and <placeName type="camp"
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-2">Birkenau</placeName>, as I
+        wanted to collapse from anger, suffering and torment and only the thought of vengeance kept
+        be going: <q><term type="subject"
+            ref="https://portal.ehri-project.eu/keywords/ehri_terms-745">Death</term> is no
+          punishment.</q>
+      </p>
+
+
+      <pb n="4" facs="EHRI-ET-JMP017_04.jpg"/>
+
+
+      <p>Signature of the witness:</p>
+
+      <p>
+        <persName ref="#ehri_et_kratkova_marta">Marta Kratková</persName>
+        <persName ref="#ehri_et_gerzonova_berta">Berta Gerzonová</persName>
+      </p>
+
+      <p>Own signature:</p>
+
+      <p>Dr. <persName ref="#ehri_et_lobner_walter">Walter Löbner</persName>
+      </p>
+
+      <p>For the <term ref="https://portal.ehri-project.eu/keywords/terezin-terms-keyword-jmp-657"
+          type="subject">Documentary campaign</term></p>
+
+      <p>
+        <persName ref="#ehri_et_shek_zeev">Zeev Scheck</persName>
+      </p>
+
+      <p>For the archive:</p>
+      <p>
+        <persName ref="#ehri_et_schmiedt_alexander">Alex Schmiedt</persName>
+      </p>
+
+      <p>
+        <date when="1945-08-26">26.VIII.1945</date>
+      </p>
+    </body>
+  </text>
+</TEI>

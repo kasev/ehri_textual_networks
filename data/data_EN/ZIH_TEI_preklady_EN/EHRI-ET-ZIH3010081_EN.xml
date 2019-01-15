@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EHRI-ET-ZIH301081_EN">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Relacja Lili Wowsi (301/81)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>EHRI Edition of Early Holocaust Testimony</edition>
+        <author>
+          <persName>Michał Czajka</persName>
+        </author>
+        <author>
+          <persName>Marta Wojas</persName>
+        </author>
+        <author>
+          <persName>Dagmara Chełstowska</persName>
+        </author>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.ehri-project.eu/">European Holocaust Research
+            Infrastructure</ref>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike
+            4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country ref="https://portal.ehri-project.eu/countries/pl">Poland</country>
+            <repository ref="https://portal.ehri-project.eu/institutions/pl-003146">Jewish
+              Historical Institute in Warsaw</repository>
+            <collection ref="https://portal.ehri-project.eu/units/pl-003146-301#desc-pol">Holocaust
+              Survivor Testimonies (coll. 301)</collection>
+
+          </msIdentifier>
+          <physDesc/>
+        </msDesc>
+        <bibl>JHI, 301, Lila Wowsi Testimony (301/81) <textLang mainLang="pl">Original in
+            Polish.</textLang></bibl>
+
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date when="1945">1945</date>, <persName ref="#ehri_et_wowsi_lila">Lila
+          Wowsi</persName>, <persName ref="#ehri_et_lewin_blanka">Blanka Lewin</persName>,
+          <placeName ref="http://www.geonames.org/460414/daugavpils.html">Daugavpils</placeName>,
+          <placeName type="camp" ref="http://www.geonames.org/456172/riga.html">Riga</placeName>,
+          <placeName ref="http://www.geonames.org/7532549/torun.html">Toruń</placeName>, <placeName
+          type="camp" ref="https://portal.ehri-project.eu/keywords/ehri_camps-857"
+          >Stutthof</placeName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545">ghettos</term>, <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-541"
+          >executions</term>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508">labour camps</term>, <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-540">mass
+          murders</term>
+        <idno>EHRI-ET-ZIH301081</idno></creation>
+      <textClass>
+        <keywords>
+          <term>testimony</term>
+        </keywords>
+      </textClass>
+
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <abstract>
+        <p>Establishment of getto in Daugavpils (July 1941). Description of liquidation actions
+          (1942). Mass executions during the final liquidation if the ghetto. Author’s life in
+          German concentration camps in Toruń and Stutthof.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><persName ref="#ehri_et_wowsi_lila">Ela Wowsi</persName> Testimony (doc. 301/81)</p>
+
+      <p>Original, manuscript, 4 pages, 210 x 295 mm, Polish language</p>
+
+      <p>The experiences of a Jewish <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">woman</term>
+        from <placeName ref="http://www.geonames.org/458258/republic-of-latvia.html"
+          >Latvia</placeName> in the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject">camps</term>
+        in <placeName ref="http://www.geonames.org/456172/riga.html">Riga</placeName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-857" type="camp"
+          >Stutthof</placeName> and <placeName ref="http://www.geonames.org/7532549/torun.html"
+          >Toruń</placeName></p>
+
+      <p><persName ref="#ehri_et_wowsi_lila">Ela Wowsi</persName>, born in <date when="1898"
+          >1898</date> in Subala in <placeName
+          ref="http://www.geonames.org/458258/republic-of-latvia.html">Latvia</placeName>, lived in
+          <placeName ref="http://www.geonames.org/460414/daugavpils.html">Dyneburg</placeName>,
+        pharmacist.</p>
+
+      <p>The <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject"
+          >Germans</term> entered <placeName ref="http://www.geonames.org/460414/daugavpils.html"
+          >Dyneburg</placeName> on <date when="1941-06-26">June 26, 1941</date>. On <date
+          when="1941-06-29">June 29</date>, they already announced that all <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-826" type="subject">men</term>
+        were to be taken. (The Jewish population in <placeName
+          ref="http://www.geonames.org/460414/daugavpils.html">Dyneburg</placeName> was from
+        10,000-14,000.) Those who were assembled were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-598" type="subject"
+          >arrested</term> and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-541"
+          type="subject">liquidated</term> over the course of 2 weeks. This is how the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject"
+          >Germans</term> began their <q><foreign xml:lang="de">Schreckensherrschaft</foreign></q>.
+          <note type="gloss">Schreckensherrschaft (German) – reign of terror</note>. Only <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1427" type="subject"
+          >doctors</term> and pharmacists were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-651" type="subject"
+          >released</term>. The rest, about 6,000, were moved on <date when="1941-07-26">July
+          26</date> to the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-545"
+          type="subject">ghetto</term> outside of town. They lived in former artillery <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject"
+          >barracks</term> in stables in terribly <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-295" type="subject">sanitary
+          conditions</term>. After a while, Jews were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-496" type="subject"
+          >concentrated</term> there from the entire area. The total number was 7,200. They were
+        caught and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-541" type="subject"
+          >shot</term> in groups of 5,000 and 1,000 from the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject">ghetto</term>.
+        The approximately 1,200 who remained were put in <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-669" type="subject">prison</term>.
+        On <date when="1941-11-09">November 9, 1941</date>, most of the working <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-819" type="subject"
+          >families</term> were taken, who up to that time had been protected, and on <date
+          when="1942-05-01">May 1, 1942</date>, the final <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-551" type="subject"
+          >liquidation</term> of the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-545" type="subject">ghetto</term>
+        began by means of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-541"
+          type="subject">shooting</term> people on the spot. Those who were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">working</term>
+        for the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject"
+          >Germans</term> that day remained alive, about 380-400 people. They <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">worked</term>
+        at various <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159"
+          type="subject">German</term> Einheits <note type="gloss">Einheit (German) – unit
+          (military)</note> in <placeName ref="http://www.geonames.org/460414/daugavpils.html"
+          >Dyneburg</placeName> until <date when="1943-10">October 1943</date>. I was not faring
+        badly. The Jews <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">cooked</term> for themselves, received 120 g of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">bread</term>,
+        from time to time <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">butter</term>, or <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">sugar</term>,
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >salt</term> etc. In <date when="1943-10">October</date>, they were taken to <placeName
+          ref="http://www.geonames.org/456172/riga.html">Riga</placeName> to the electrotechnical
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-929" type="subject"
+          >factory</term>, [where] parts [were made] for cables, radios, etc. at the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-005054">AEG Allgemeine
+          Elektrotechnische Genossenschaft</orgName>. They were divided into sections, they <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">worked</term>
+        on 3 shifts. Others <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          type="subject">worked</term> for 11 hours from 6 a.m. to 5 p.m. without any breaks (only ½
+        hour for <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >lunch</term>). The <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-429"
+          >SS</orgName>
+        <foreign xml:lang="de">Oberscharführer</foreign> and <foreign xml:lang="de"
+          >Blitzmädel</foreign>
+        <note type="gloss">Blitzmädel (German) – „girl with the lighting emblem”, female Wehrmacht
+          auxiliary (Wehrmachthelferin), in concentration camps the SS auxiliary
+          (SS‑helferin).</note> did not treat them badly. Jewish <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        of all nationalities were concentrated in the <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-2055" type="camp">Riga
+          camp</placeName>, from the <placeName ref="http://www.geonames.org/3077311/czechia.html"
+          >Czech lands</placeName>, <placeName ref="http://www.geonames.org/719819/hungary.html"
+          >Hungary</placeName>, <placeName
+          ref="http://www.geonames.org/798544/republic-of-poland.html">Poland</placeName>,
+          <placeName ref="http://www.geonames.org/597427/republic-of-lithuania.html"
+          >Lithuania</placeName>, <placeName
+          ref="http://www.geonames.org/2921044/federal-republic-of-germany.html"
+        >Germany</placeName>, etc. Only one <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject">German</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject"
+          >woman</term> was in charge of all of them. They got 250 g of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-833" type="subject">bread</term>,
+        some <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >marmalade</term> or alternately a piece of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">fat</term>, a
+        little <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >sugar</term>, <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">margarine</term>, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+        >sausage</term>, or <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">horse meat</term>. Once a day there was a some <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">soup</term>,
+        and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >coffee</term> twice a day. The Jewish kitchen stole from them, taking their <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">food</term>
+        for their own needs, exchanging it with <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-373" type="subject">Aryans</term>
+        for other things, etc. The <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">work</term>
+        site was across from their room. The <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-295" type="subject">sanitary
+          conditions</term> were very good, warm shower, often <foreign xml:lang="de"
+          >Entlausung</foreign>, <note type="gloss">Entlausung - delousing</note> light, warm, in
+        their free time they read, played cards. A couple times they had evenings of poetry
+        readings, singing in Yiddish. The <q>Blitzerki</q>
+        <note type="gloss">„Blitzerki” - Blitzmädel</note> also attended them.</p>
+      <p>In <date when="1944-10">October 1944</date>, they were suddenly <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-521" type="subject"
+          >transported</term> to <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-857" type="camp"
+          >Stutthof</placeName> (Durchgangslager). <note type="gloss">Stutthof – at present
+          Sztutowo. Durchgangslager (German) – transit camp.</note> For a week, they traveled by
+        truck in conditions that were lamentable. Near <placeName
+          ref="http://www.geonames.org/7531002/gdansk.html">Gdańsk</placeName>, the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-350">Gestapos</orgName> beat them
+        when they were getting out of the trucks. They were kept at <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-857" type="camp"
+          >Stutthof</placeName> for 1 month. The Jewish <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        from <placeName ref="http://www.geonames.org/798544/republic-of-poland.html"
+          >Poland</placeName> and <placeName ref="http://www.geonames.org/719819/hungary.html"
+          >Hungary</placeName> - <foreign xml:lang="de">Blockälteste</foreign>
+        <note type="gloss">Blockälteste – block elder.</note> beat them, and the Jewish <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        from the <foreign xml:lang="de">Innendienst</foreign>
+        <note type="gloss">Innendienst – internal service</note> in the blocks beat them as well. In
+        the narrow bunk <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-837"
+          type="subject">beds</term>, four <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        would sleep together, there was filth everywhere. The harassment got to the point where they
+        were not allowed to leave the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject"
+          >barracks</term> to take care of their <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-295" type="subject">physiological
+          needs</term>. They were kept for hours at <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-487" type="subject">roll
+          calls</term> for no reason. They did not <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">work</term> at
+        all. The <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject"
+          >camp</term> had a <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-501"
+          type="subject">crematorium</term> as well. Their <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-833" type="subject">food</term>
+        consisted of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">coffee</term> twice a day, one liter of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-833" type="subject">soup</term>,
+        300 g of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >bread</term> (some <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">margarine</term> or <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >marmalade</term> occasionally). There were Jews here from all over the world. There were
+        also <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-373" type="subject"
+          >Aryans</term> there. The whole <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject">camp</term>
+        had about 40,000 <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-650"
+          type="subject">prisoners</term>. There were 600 people to a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-486" type="subject"
+          >barracks</term>. Leaving the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject"
+          >barracks</term> was forbidden. Contact with the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-373" type="subject">Aryan</term>
+        world was banned.</p>
+      <p>After a month, they took 300 people to <placeName
+          ref="http://www.geonames.org/7530813/torun.html">Toruń</placeName> to <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">work</term> in
+        the electrotechnical <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-929"
+          type="subject">factory</term>. There were already about 200 <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-483" type="subject">camp
+          inmates</term> there. In <placeName ref="http://www.geonames.org/7530813/torun.html"
+          >Toruń</placeName> they had very bad <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject"
+          >conditions</term>. The <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject"
+          >Oberscharführer</term> beat them for no reason, they were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-569" type="subject"
+          >starving</term>. A beating with club (25 blows) was an everyday occurrence. People’s hair
+        was cut off for the smallest offence. Work in the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-005054">AEG</orgName> in
+          <placeName ref="http://www.geonames.org/7530813/torun.html">Toruń</placeName> was
+        supervised by <placeName ref="http://www.geonames.org/458258/republic-of-latvia.html"
+          >Latvians</placeName>. They treated Jews very badly. They reported the most minor
+        infractions against <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567"
+          type="subject">camp</term>
+        <q>law</q> to the Oberscharführer.</p>
+      <p><term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject"
+          >Camp</term> authorities: <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-429">SS</orgName>
+          Oberscharführer<orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-429"
+          >SS</orgName> <foreign xml:lang="de">Unterscharführer</foreign> (administrator) normal <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject">SS
+          soldiers</term> as <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-480"
+          type="subject">camp guards</term></p>
+      <p><q><foreign xml:lang="de">Blitzmädel</foreign></q> supervised during <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">work</term> a
+        Jewish <foreign xml:lang="de">Lagerältester</foreign>
+        <note type="gloss">Lagerältester – camp elder Jewish Blockälteste</note>Jewish "Polizei" -
+        2-3 <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject"
+          >women</term> 12 people were employed in the kitchen.</p>
+      <p>The <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject"
+          >camp</term> consisted of an enormous square surrounded by barbed wire which was made up
+        of 5 blocks, and one that was not yet finished. <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">Women</term>
+        lived in 4 <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject"
+          >barracks</term>, over 100 to a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject"
+        >barrack</term>. The kitchen and supply room was in the fifth. A <foreign xml:lang="de"
+          >Waschraum</foreign>, <note type="gloss">Waschraum - washroom</note> shoemakers’ <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-549" type="subject"
+          >workshop</term> and laundry were set up in the sixth. The <q><foreign xml:lang="de"><term
+              ref="https://portal.ehri-project.eu/keywords/ehri_terms-483" type="subject"
+              >Häftlinge</term></foreign></q>
+        <note type="gloss">Häftlinge - prisoners</note> wore gray <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-669" type="subject">prison</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-836" type="subject"
+          >clothing</term> and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-836"
+          type="subject">underwear</term>, numbers that were assigned back in <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-857" type="camp"
+          >Stutthof</placeName>. The <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-837" type="subject"
+          >barracks</term> were built of boards, one store high. Triple bunk beds were put in them
+        in rows, without any bed linens. One blanket and straw mattress were assigned to 4 <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>.
+        They <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject"
+          >worked</term> for 8 hours a day with the cables, and then they shoveled snow and helped
+        in the kitchen.</p>
+      <p>There were 2 <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-556"
+          type="subject">work</term> halls. The first was in the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject">camp</term>,
+        the second was in the <q><foreign xml:lang="de">Stadthalle</foreign></q>
+        <note type="gloss">Stadthalle – hall in the town</note> in town. People <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">worked</term>
+        for 12 hours a day in the second hall. Those who <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">worked</term>
+        8 hours a day also had to work on Sundays. Part of the first <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-486" type="subject"
+          >barracks</term> was used for the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-491" type="subject"
+          >hospital</term>. The <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-287"
+          type="subject">doctor</term> was a Jewish <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">woman</term>.
+        The <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject"
+          >SS</term> had 3 Jewish cooks for their needs. They treated them better than the others.
+        In the morning, they were woken up with a shout of: <q>Aufstehen! <term
+            ref="https://portal.ehri-project.eu/keywords/ehri_terms-487" type="subject"><foreign
+              xml:lang="de">Apell</foreign></term>!</q>
+        <note type="gloss">Aufstehen, Apell – stand up, roll call</note> They were counted, and if
+        the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject"
+          >Oberscharführer</term> was in a good mood, they were sent to <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-556" type="subject">work</term>.
+        If he was in a bad mood, he kept them for hours in the field. It was the same with those who
+        were returning from the <q><foreign xml:lang="de">Nachtschicht</foreign></q>. <note
+          type="gloss">Nachtschicht – night shift</note> In the evening, 100 <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">women</term>
+        would return from the <q><foreign xml:lang="de">Stadthalle</foreign></q> and 300 from the
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-567" type="subject"
+          >camp</term>. It was always terribly crowded in the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-486" type="subject"
+          >barracks</term>. At nine, the lights were turned off.</p>
+      <p>When the <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-004583"
+          >Soviets</orgName> were approaching, the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject"
+          >Oberscharführer</term> assembled them. They were given <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">bread</term>
+        for the journey, <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">sausage</term> and half a package of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >margarine</term> and they left on foot. They <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-517" type="subject">walked</term>
+        for 50 kilometers to <placeName ref="http://www.geonames.org/7530814/bydgoszcz.html"
+          >Bromberg</placeName>, <note type="gloss">Bromberg – Bydgoszcz.</note> on the way many
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject"
+          >escaped</term>, and the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1216" type="subject"
+          >Oberscharführer</term> no longer paid any attention. They <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-517" type="subject">marched</term>
+        to <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject"
+          >Germany</term> half-dead through the <date when="1945-01">January</date> snows. The <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject"
+          >Germans</term> and Blitzerki also <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject">escaped</term>
+        on foot. The <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-791"
+          type="subject">sick</term> were moved on sleds, which Jews pulled. In <placeName
+          ref="http://www.geonames.org/7530814/bydgoszcz.html">Bromberg</placeName>, almost everyone
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject">ran
+          away</term>, taking advantage of the confusion was prevailing among the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject"
+          >Germans</term>.</p>
+
+      <p><persName ref="#ehri_et_lewin_blanka">Lewinówna</persName> taking the record (<placeName
+          ref="http://www.geonames.org/7530970/lublin.html">Lublin</placeName>)</p>
+    </body>
+  </text>
+</TEI>

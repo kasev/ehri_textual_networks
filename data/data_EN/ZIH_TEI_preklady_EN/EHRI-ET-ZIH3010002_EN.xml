@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EHRI-ET-ZIH301002_EN">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Relacja Dwojry Szczucińskiej (301/2)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>EHRI Edition of Early Holocaust Testimony</edition>
+        <author>
+          <persName>Michał Czajka</persName>
+        </author>
+        <author>
+          <persName>Marta Wojas</persName>
+        </author>
+        <author>
+          <persName>Dagmara Chełstowska</persName>
+        </author>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.ehri-project.eu/">European Holocaust Research
+            Infrastructure</ref>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike
+            4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country ref="https://portal.ehri-project.eu/countries/pl">Poland</country>
+            <repository ref="https://portal.ehri-project.eu/institutions/pl-003146">Jewish
+              Historical Institute in Warsaw</repository>
+            <collection ref="https://portal.ehri-project.eu/units/pl-003146-301#desc-pol">Holocaust
+              Survivor Testimonies (coll. 301)</collection>
+
+          </msIdentifier>
+          <physDesc/>
+        </msDesc>
+        <bibl>JHI, 301, Dwojra Szczucińska Testimony (301/2) <textLang mainLang="pl">Original in
+            Polish.</textLang></bibl>
+
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date when="1944-09-04">4. 9. 1944</date>, <persName
+          ref="#ehri_et_szczucińska_dwojra">Dwojra Szczucińska</persName>, <persName
+          ref="#ehri_et_asz_marek">Marek Asz</persName>, <placeName
+          ref="http://www.geonames.org/756135/warsaw.html">Warsaw</placeName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1146">visas</term>, <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-496">concentration
+          camps</term>
+        <idno>EHRI-ET-ZIH301002</idno></creation>
+      <textClass>
+        <keywords>
+          <term>testimony</term>
+        </keywords>
+      </textClass>
+
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <abstract>
+        <p>Information on the “Hotel Polski” affair – a Gestapo provocation resulting in death of
+          about 3000 Jews, who left their places of hiding on the “Aryan side”. The role of Lolek
+          Skosowski, Gestapo agent.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <persName ref="#ehri_et_szczucińska_dwojra">Dwojra Szczuczyńska</persName> Testimony (doc.
+        301/2)</p>
+      <p>Original, manuscript, 2 pages, 210 x 295 mm, Polish language</p>
+      <p><persName ref="#ehri_et_szczucińska_dwojra">Dwojra Szczuczyńska</persName>, residing in
+          <placeName ref="http://www.geonames.org/756135/warsaw.html">Warsaw</placeName>, tells
+        about the <q>Hotel</q> for Jews that was set up by <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject"
+          >Germans</term> in cooperation with the Jewish <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-350">Gestapo</orgName> men.</p>
+      <p>In <date when="1943-05">May 1943</date>, the news came that Jews who were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1149" type="subject">foreign
+          citizens</term> could leave the country. This was a trap for Jews who were settled or in
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-262" type="subject"
+          >hiding</term> on the <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-373"
+          type="subject">Aryan</term> side. There were (it was said) certificates at the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-350">Gestapo</orgName> for Jews
+        who had <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject"
+          >died</term> in action, <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159" type="subject"
+          >Germans</term> making it convenient for the Jews who had survived, sold <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1149" type="subject"
+          >citizenships</term> and with that underhanded method caught the naïve ones. <note
+          type="gloss">There were two types of documents which were supposed to provide their
+          holders security: certificates issued by British authorities, authorizing entry to
+          Palestine, and the passports of the Latin American countries.</note>At the head of this
+        scam was a Jewish <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-350"
+          >Gestapo</orgName> officer named <persName ref="#ehri_et_skosowski_lolek">Lolek
+          Skosowski</persName>, a resident of <placeName
+          ref="http://www.geonames.org/3093133/lodz.html">Łódź</placeName> (who lived until the last
+        minute in <placeName ref="http://www.geonames.org/702550/lviv.html">Lwów</placeName> at
+          <placeName ref="http://www.geonames.org/702550/lviv.html">4 Teresy Street</placeName> and
+        was <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject"
+          >killed</term> by the party), who sacrificed his own <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-822" type="subject">family</term>
+        to underscore the trustworthiness of this program, having taken them out of the <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_ghettos-513" type="ghetto">Łódź
+          ghetto</placeName>.</p>
+      <p>Naïve people were recruited at the <q>Hotel Polski</q> on Długa Street. At the gate there
+        was an armed <foreign>guard [wacha]</foreign>, <note type="gloss">Wacha (German ‑ Wache) –
+          guard post.</note> who kept order and chased away onlookers. The richest Jews fell victim
+        to this, who would pay several hundred thousand <foreign xml:lang="pl">złotys</foreign> each
+        for a certificate. They came with their fancy baggage. There was a restaurant and barber
+        shop right there. The ladies and gentlemen felt as if they were on a fancy ship. A committee
+        was formed from among the Jews, which took care of <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-327" type="subject"
+          >orphaned</term>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-824" type="subject"
+          >children</term> who were allegedly supposed to leave for <placeName
+          ref="http://www.geonames.org/6254930/palestine.html">Palestine</placeName>. Thanks to the
+          <q>big-heartedness</q> of the <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-350">Gestapo</orgName>, poor <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-327" type="subject">orphans</term>
+        were accepted in exchange for payments <q>in-kind</q> and similar arrangements. <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-521" type="subject"
+          >Transports</term> were sent depending on how many naïve people were taken in. There were
+        three such <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-521" type="subject"
+          >transports</term>. The first was to <placeName
+          ref="http://www.geonames.org/2967845/vittel.html">Wittel</placeName>
+        <note type="gloss">Wittel – Vittel, a spa town in France. Group held in Vittel was then
+          deported to the death camp at Auschwitz.</note>, from whence letter were even sent, the
+        second went to <placeName
+          ref="http://www.geonames.org/6559065/hannover-landeshauptstadt.html">Hannover</placeName>,
+        the third and last to <placeName ref="http://www.geonames.org/756135/warsaw.html"
+          >Pawiak</placeName>. <note type="gloss">Further groups of residents of <q>Hotel Polski</q>
+          were deported to the concentration camp at Bergen‑Belsen.</note></p>
+      <p>After a while, there ceased to be any news. A card from <placeName
+          ref="http://www.geonames.org/6559065/hannover-landeshauptstadt.html">Hannover</placeName>
+        came from one <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-825"
+          type="subject">woman</term>, written in an arranged code to her friends, which unmasked
+        the enormity of the scam, namely the sentence <q>we are doing very well</q> was to mean the
+        group’s <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-529" type="subject"
+          >extermination</term>.</p>
+      <p>The last <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-521" type="subject"
+          >transport</term> did not go far, only to the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-669" type="subject">prison</term>
+        known as <placeName ref="http://www.geonames.org/756135/warsaw.html">Pawiak</placeName>,
+        hundreds of thousands of people were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-532" type="subject"
+        >killed</term>.</p>
+      <p>The <q>hotel</q> scam caught about 3,000 people from the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-373" type="subject">Aryan</term>
+        neighborhood. They were people who had every opportunity: they looked good, had <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831" type="subject">living
+          conditions</term>, and were <q>set up</q>, which means they had <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-943" type="subject">work</term> in
+        various places (railroad, post office, fire department) and they had the possibility of
+        surviving the period of <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1159"
+          type="subject">German</term> barbarity.</p>
+      <p><note type="gloss">[Signature:]</note><persName ref="#ehri_et_szczucińska_dwojra"
+          >Szczuczyńska</persName></p>
+      <p><placeName ref="http://www.geonames.org/765876/lublin.html">Lublin</placeName>, <date
+          when="1944-09-04">September 4, 1944</date></p>
+      <p>Collected by <persName ref="#ehri_et_asz_marek">M. Asz</persName></p>
+    </body>
+  </text>
+</TEI>

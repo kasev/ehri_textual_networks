@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="EHRI-ET-ZIH3010945_EN">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Relacja Wolfa Fajnsztadta (301/945)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>EHRI Edition of Early Holocaust Testimony</edition>
+        <author>
+          <persName>Michał Czajka</persName>
+        </author>
+        <author>
+          <persName>Marta Wojas</persName>
+        </author>
+        <author>
+          <persName>Dagmara Chełstowska</persName>
+        </author>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.ehri-project.eu/">European Holocaust Research
+            Infrastructure</ref>
+        </publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike
+            4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country ref="https://portal.ehri-project.eu/countries/pl">Poland</country>
+            <repository ref="https://portal.ehri-project.eu/institutions/pl-003146">Jewish
+              Historical Institute in Warsaw</repository>
+            <collection ref="https://portal.ehri-project.eu/units/pl-003146-301#desc-pol">Holocaust
+              Survivor Testimonies (coll. 301)</collection>
+
+          </msIdentifier>
+          <physDesc/>
+        </msDesc>
+        <bibl>JHI, 301, Wolf Fajnsztadt Testimony (301/945) <textLang mainLang="pl">Original in
+            Polish.</textLang></bibl>
+
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><persName ref="#ehri_et_fajnsztadt_wolf">Wolf Fajnsztadt</persName>, <persName
+          ref="#ehri_et_chaim_helena">Helena Chaim</persName>, <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-1813" type="camp">Ostrowiec
+          Świętokrzyski</placeName>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-242">underground</term>, <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1215"
+          >partisans</term>, <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508">labour camps</term>
+        <idno>EHRI-ET-ZIH3010945</idno></creation>
+      <textClass>
+        <keywords>
+          <term>testimony</term>
+        </keywords>
+      </textClass>
+
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <abstract>
+        <p>The author was in Ostrowiec Świętokrzyski (in the ghetto, later in labour camp).
+          Resistance movement in the ghetto, attempts to obtain weapons. On July 26, 1944 a group of
+          Jewish youth (29 persons) escapes into the woods, undertakes guerilla warfare in the
+          vicinity of Krzeminki, Czarna Glinka and Ruda Kościelna.</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><persName ref="#ehri_et_fajnsztadt_wolf">Wolf Fajnsztadt</persName> Testimony (doc.
+        301/945)</p>
+      <p>Typescript, 2 pages, 210 x 295 mm, Polish language</p>
+      <p><persName ref="#ehri_et_fajnsztadt_wolf">Wolf Fajnsztadt</persName><note type="gloss">In
+          the later part of the text he is called Fajnstok.</note> b[orn on] <date when="1919-11-15"
+          >November 15, 1919</date>, in <placeName ref="http://www.geonames.org/765876/lublin.html"
+          >Lublin</placeName>. Father <persName ref="#ehri_et_fajnsztadt_mojżesz"
+        >Mojżesz</persName>, mother <persName ref="#ehri_et_mendelewicz_chana">Chana
+          Mendelewicz</persName>. Before the war he lived in <placeName
+          ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.htmll">Ostrowiec
+          [Świętokrzyski]</placeName>. At present [residing in] <placeName
+          ref="http://www.geonames.org/3103719/bedzin.html">Będzin</placeName>, <placeName
+          ref="http://www.geonames.org/3103719/bedzin.html">9 Potockiego Street</placeName>.</p>
+
+      <p><term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1215" type="subject"
+          >Partisan</term> fighting</p>
+      <p>I was a <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-1215" type="subject"
+          >partisan</term> from <date when="1944-07-26">July 26, [1944]</date>, until <date
+          when="1945-01-17">January 17, 1945</date>. Before my time as a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1215" type="subject"
+          >partisan</term> I was in a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term> in
+          <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-1813" type="camp"
+          >Ostrowiec Świętokrzyski</placeName>.</p>
+      <p>In <date when="1943-02">February 1943</date>, still in the <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_ghettos-15" type="ghetto"
+          >ghetto</placeName>, boys had organised an attack on the commandant of the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-566" type="subject">Jewish
+          militia</term>, and we took away from him 40 <note type="gloss">Probably dollars.</note>
+        in gold, the sum which we spent on arms. We exchanged that currency for 36 thousand zlotys,
+        and bought 12 revolvers with this money. For the time being, we were in the <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_ghettos-15" type="ghetto"
+          >ghetto</placeName>. Seventeen of our boys went to <placeName
+          ref="http://www.geonames.org/767020/kunow.html">Kunów</placeName> to <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-265" type="subject">hide</term>
+        there on <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-183" type="subject"
+          >Aryan papers</term>, but they were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">killed</term>
+        by the <orgName><orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-312"
+            >AK</orgName></orgName> men. Those men threw a grenade into the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-265" type="subject">bunker</term>
+        where our friends were <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-265">hiding</term>, and all of
+        them were <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject"
+          >killed</term> on that occasion. This delayed our action in the <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_ghettos-15" type="ghetto"
+          >ghetto</placeName> until <date when="1944-03">March 1944</date>. At the beginning there
+        were 47 of us, and only 30 members remained alive. The leaders of our fighting unit were two
+          <persName ref="#ehri_et_stein">Stein</persName> brothers from <placeName
+          ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.html">Ostrowiec.</placeName>.
+        Both of them were <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          type="subject">killed</term> in <date when="1944-06">June 1944</date> during the talks
+        with the boss of the workers’ party from <placeName
+          ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.html">Ostrowiec</placeName>.
+        His name was <persName ref="#ehri_et_rybowski">Rybowski</persName>, alias <q><persName
+            ref="#ehri_et_rybowski">Wujo</persName></q> [Uncle], and he was a <term type="subject"
+          ref="#ehri_et_nationalities_poles">Pole</term>. They met to discuss the question of an
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject"
+          >escape</term> attempt from the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term>.
+        And then one Jew named <persName ref="#ehri_et_blumental">Blumental</persName>, a <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-485" type="subject">capo</term>
+        from <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-1813" type="camp"
+          >Ostrowiec</placeName>, informed on them to the <term type="subject"
+          ref="#ehri_et_nationalities_germans">Germans</term>, who immediately apprehended them, and
+        the <persName ref="#ehri_et_stein">Stein</persName> brothers were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject"
+          >executed</term> by a firing squad two days later. It took place in the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term>
+        square in <placeName ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.html"
+          >Ostrowiec</placeName>.</p>
+      <p>After that <persName ref="#ehri_et_kepiński_dawid">Dawid Kepiński</persName> from
+          <placeName ref="http://www.geonames.org/3095321/konin.html">Konin</placeName> took over
+        the command. Led by him, we cut through the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term>
+        wires and <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject"
+          >escaped</term> to the forest on <date when="1944-07-25">July 25, 1944</date>. There were
+        29 of us. We had 14 revolvers, 2 short machine guns, and 3 grenades. Thanks to <persName
+          ref="#ehri_et_cukierman_antek">Antek Cukierman</persName> we received money from a
+          <orgName ref="#ehri_et_jewish_fighting_organisation">Jewish fighting
+          organisation</orgName> from <placeName ref="http://www.geonames.org/756135/warsaw.html"
+          >Warsaw</placeName>. That money was brought by <persName ref="#ehri_et_beatus_frania"
+          >Frania Beatus</persName>, a Jewish <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">woman</term>
+        from <placeName ref="http://www.geonames.org/3095321/konin.html">Konin</placeName>. She
+        brought 25,000 zlotys and one grenade. She came to the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term> on
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-183" type="subject">Aryan
+          papers</term>. As one group of the Jews from the <placeName
+          ref="https://portal.ehri-project.eu/keywords/ehri_camps-1813" type="camp"
+          >Ostrowiec</placeName>
+        <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject"
+          >camp</term> worked in the town on the <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-373">Aryan</term> side, she joined
+        that group of workers when they were coming back to the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term>,
+        and in this way she also got into the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term>
+        and established contact with us. On the following morning she returned with the same group
+        to the town, but from there she went to <placeName
+          ref="http://www.geonames.org/756135/warsaw.html">Warsaw</placeName>. But on the way some
+          <term type="subject" ref="#ehri_et_nationalities_germans">Germans</term> recognised she
+        was Jewish and she was <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          type="subject">killed</term>.</p>
+      <p>We stored the arms in the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term> -
+        in crates, feather quilts, and so on. When we entered the forest, in <placeName
+          ref="http://www.geonames.org/767292/krzemionki.html">Krzemionki</placeName> near
+          <placeName ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.html"
+          >Ostrowiec</placeName>, we joined a <term type="subject" ref="#ehri_et_nationalities_russians">Russian</term> unit of nine. They had <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject">escaped</term>
+        from <term type="subject" ref="#ehri_et_nationalities_germans">German</term> captivity. They
+        were well armed - they had eight machine guns. We contacted them through a <term
+          type="subject" ref="#ehri_et_nationalities_poles">Pole</term> named <persName
+          ref="#ehri_et_sternik">Sternik</persName> from the workers’ party from <placeName
+          ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.html">Ostrowiec</placeName>
+        (he is at present a commandant of the militia in the Security Department in <placeName
+          ref="http://www.geonames.org/775737/bodzechow.html">Bodzechów</placeName><note
+          type="gloss">W tekście: Bodzanowie.</note> near <placeName
+          ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.html">Ostrowiec</placeName>).
+        We built three sheds because it was still <date when="1944">summer</date>, and in <date
+          when="1944-09">September</date> we made up <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-265" type="subject">underground
+          bunkers</term>, the so-called <q><term
+            ref="https://portal.ehri-project.eu/keywords/ehri_terms-265" type="subject"
+            >dug-outs</term></q>. There were four <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-265" type="subject">bunkers</term>
+        for thirty-eight people. There were also <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">girls</term>,
+        about 20 years old, among us. They cooked for us.</p>
+      <p>We <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject"
+          >escaped</term> from the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term>
+        because we were aware that it was going to be <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-551" type="subject"
+          >liquidated</term>. We were also planning to save our <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-819">families</term> but,
+        unfortunately, it was too late. On <date when="1944-08-02">August 2, 1944</date>, the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-508" type="subject">camp</term>
+        was evacuated to <placeName ref="https://portal.ehri-project.eu/keywords/ehri_camps-0"
+          type="camp">Auschwitz</placeName>, because the front was drawing nearer.</p>
+      <p>We obtained <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832"
+          type="subject">food</term> from well-off peasants and manors, and we paid for the products
+        the pre-war prices. We went to get the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">food</term> at
+        night, and we were armed. From time to time we met <term type="subject"
+          ref="#ehri_et_nationalities_germans">Germans</term> at those peasants’ homes, and then the
+        shooting ensued. On one such occasion four our boys were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">killed</term>
+        and two were wounded. But also two <term type="subject" ref="#ehri_et_nationalities_germans"
+          >Germans</term> were <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          type="subject">killed</term>, and we took off their uniforms and got hold of their arms,
+        and went back to the forest. One day we met a <term type="subject"
+          ref="#ehri_et_nationalities_germans">German</term> lorry which had a cargo of cigarettes
+        and canned <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject"
+          >food</term>. We <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          type="subject">killed</term> two <term type="subject" ref="#ehri_et_nationalities_germans"
+          >Germans</term>, seized the cargo, and burnt the lorry, having first poured petrol on it.
+        On <date when="1944-06-29">June 29, 1944</date>, we derailed a <term type="subject"
+          ref="#ehri_et_nationalities_germans">German</term>
+        <term type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-940"
+          >train</term> which was carrying ammunition and explosives to the front. On <date
+          when="1944-10-04">October 4</date> we blew up the whole building in the village of
+          <placeName ref="http://www.geonames.org/757836/sudol.html">Sudół Górny</placeName>,<note
+          type="gloss">In the text: Sudogóra</note> in which a <term type="subject"
+          ref="#ehri_et_nationalities_germans">German</term> Hauptmann <note place="bottom"
+          >Hauptmann (Ger.) – captain.</note> was staying. That <foreign xml:lang="de"
+          >Hauptmann</foreign> was <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">killed</term>,
+        and we managed to run away. In <date when="1944-11">November</date> there was an ambush
+        organised by the <term type="subject" ref="#ehri_et_nationalities_germans">Germans</term>,
+        because we had been given away by one forester who told them where we were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-262" type="subject">hiding</term>.
+        The <term type="subject" ref="#ehri_et_nationalities_germans">Germans</term> came to the
+          <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-265" type="subject"
+          >bunker</term> and opened fire. Certainly, we fought back. Eight of our people were <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-745" type="subject">killed</term>
+        at that time, including those two <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-825" type="subject">girls</term>
+        and one <term type="subject" ref="#ehri_et_nationalities_russians">Russian</term>. As there
+        were sixty <term type="subject" ref="#ehri_et_nationalities_germans">Germans</term>, we had
+        to withdraw and we <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-204"
+          type="subject">fled</term> to the forest in the village of <placeName
+          ref="http://www.geonames.org/773937/czarna-glina.html">Czarna Glinka</placeName><note
+          type="gloss">In the text: Czarna Glina. </note> near <placeName
+          ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.html">Ostrowiec</placeName>.
+        We built three new <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-265"
+          type="subject">bunkers</term> there. The <term type="subject"
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-831">conditions</term> were harsh
+        because we were persecuted by <orgName
+          ref="https://portal.ehri-project.eu/authorities/ehri_cb-312">AK</orgName> groups and the
+          <term type="subject" ref="#ehri_et_nationalities_germans">Germans</term> wherever we
+        moved. Only armed individuals could go out to obtain <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">food</term>.
+        We had run out of money by that time, so we took the <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-832" type="subject">food</term>
+        from peasants without paying. Towards the end of <date when="1944-12">December</date> we
+        were surrounded by a <term ref="#ehri_et_nationalities_hungarians">Hungarian</term>
+        detachment which was allied with the <term type="subject"
+          ref="#ehri_et_nationalities_germans">Germans</term>. Severe fighting followed again. A lot
+        of our people were <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          type="subject">killed</term>. Only six of us survived: five Jews and a <term
+          type="subject" ref="#ehri_et_nationalities_russians">Russian</term>. We <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-204" type="subject">escaped</term>
+        to the forest in <placeName ref="http://www.geonames.org/760126/ruda-koscielna.html">Ruda
+          Kościelna</placeName> near <placeName
+          ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.html">Ostrowiec</placeName>,
+        where we hid in <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-265"
+          type="subject">bunkers</term> for three weeks until the arrival of the <term
+          type="subject" ref="#ehri_et_nationalities_russians">Russians</term>. We belonged to the
+          <orgName ref="https://portal.ehri-project.eu/authorities/ehri_cb-313">Armia
+          Ludowa</orgName>. We received newsletters and front news from the Main <term
+          type="subject" ref="https://portal.ehri-project.eu/keywords/ehri_terms-1215"
+          >Partisan</term> Headquarters in <placeName
+          ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.html">Ostrowiec</placeName>.
+        We were given those papers by the liaison officer <persName ref="#ehri_et_sternik"
+          >Sternik</persName>.</p>
+
+      <p>The names of the members of that <term
+          ref="https://portal.ehri-project.eu/keywords/ehri_terms-1215" type="subject"
+          >partisan</term> unit:</p>
+      <p>1. <persName ref="#ehri_et_wajzer_mojżesz">Mojżesz Wajzer</persName> aged 28</p>
+      <p>2. <persName ref="#ehri_et_szerman_borek">Berek Szerman</persName> 28</p>
+      <p>3. <persName ref="#ehri_et_szerman_wolf">Wolf Szerman</persName> 52</p>
+      <p>4. <persName ref="#ehri_et_waldman_matla">Matla Waldman</persName> 20</p>
+      <p>5. <persName ref="#ehri_et_weinberg_szyfra">Szyfra Weinberg</persName> 20</p>
+      <p>6. <persName ref="#ehri_et_fleischmann_majer">Majer Fleischmann</persName> 32</p>
+      <p>7. <persName ref="#ehri_et_fleischmann_izrael">Izrael Fleischmann</persName> 24</p>
+      <p>8. <persName ref="#ehri_et_fachler_tojwie">Tojwie Fachler</persName> 31</p>
+      <p>9. <persName ref="#ehri_et_fachler_jakub">Jakub Fachler</persName> 22</p>
+      <p>10. <persName ref="#ehri_et_fachler_szmul">Szmul Fachler</persName> 29</p>
+      <p>11. <persName ref="#ehri_et_waserman_mendel">Mendel Waserman</persName> 21</p>
+      <p>12. <persName ref="#ehri_et_rubinsztejn_uszer">Uszer Rubinsztejn</persName> 18</p>
+      <p>13. <persName ref="#ehri_et_wajnberg_josef">Josef Wajnberg</persName> 22</p>
+      <p>All of them come from <placeName
+          ref="http://www.geonames.org/762863/ostrowiec-swietokrzyski.html"
+        >Ostrowiec</placeName>.</p>
+
+      <p>14. <persName ref="#ehri_et_słodki_izrael">Izrael Słodki</persName> 22</p>
+      <p>15. <persName ref="#ehri_et_kempiński_szymon">Szymon Kempiński</persName> 28</p>
+      <p>16. <persName ref="#ehri_et_kempiński_fajwel">Fajwel Kempiński</persName> 21</p>
+      <p>17. <persName ref="#ehri_et_zygielbaum_mojżesz">Mojżesz Zygielbaum</persName> 21</p>
+      <p>18. <persName ref="#ehri_et_zygielbaum_ajzyk">Ajzyk Zygielbaum</persName> 23</p>
+      <p>19. <persName ref="#ehri_et_szmilewicz_szlama">Szlama Szmilewicz</persName> 34</p>
+      <p>20. <persName ref="#ehri_et_alios_szmul">Szmul Alios</persName> 32</p>
+      <p>21. <persName ref="#ehri_et_singer_juda">Juda Singer</persName> 22</p>
+      <p>22. <persName ref="#ehri_et_akerman_hersz">Hersz Akerman</persName> 30</p>
+      <p>23. <persName ref="#ehri_et_akerman_gecel">Gecel Akerman</persName> 26</p>
+      <p>24. <persName ref="#ehri_et_akerman_dawid">Dawid Niskier</persName> 23</p>
+      <p>25. <persName ref="#ehri_et_ajzman_motek">Motek Ajzman</persName> 31</p>
+      <p>26. <persName ref="#ehri_et_fajnsztadt_wolf">Wolf Fajnstok</persName> 26</p>
+      <p>From all those mentioned above the survivors are:</p>
+      <p>1. <persName ref="#ehri_et_szerman_borek">Berek Szerman</persName> and his brother
+          <persName ref="#ehri_et_szerman_wolf">Wolf</persName></p>
+      <p>2. <persName ref="#ehri_et_kempiński_szymon">Szymon Kempiński</persName></p>
+      <p>3. <persName ref="#">Mojżesz Wajzer</persName></p>
+      <p>4. <persName ref="#ehri_et_ajzman_motek">Motek Ajzman</persName></p>
+      <p>5. Myself, <persName ref="#ehri_et_fajnsztadt_wolf">Wolf Fajnstok</persName></p>
+      <p>The others <term ref="https://portal.ehri-project.eu/keywords/ehri_terms-745"
+          type="subject">perished</term>.</p>
+      <p>Recorded by <persName ref="#ehri_et_chaim_helena">Chain</persName>, <placeName
+          ref="http://www.geonames.org/3103719/bedzin.html">Będzin</placeName>.</p>
+    </body>
+  </text>
+</TEI>
